@@ -1,8 +1,8 @@
 ### Hey it's Eurohat 👋
 About:
 - 🔭 I joke about EU Politics with Python code: [Eurohat's GitHub Gists](https://gist.github.com/FractalEurope) 
-- 🌱 I’m currently learning about [Loose coupling](https://docs.djangoproject.com/en/3.1/misc/design-philosophies/#loose-coupling) and tight cohesion.
-- 👯 I’m looking to collaborate on Version Controlled Legislation
+- 🌱 I’m currently learning about _Loose coupling and tight cohesion_ (for both Programming and Politics)
+- 👯 I’m looking to collaborate on _Version Controlled Legislation_
 
 Contact:
 - 🤔 I’m looking for help with the `EUReformBacklog`
