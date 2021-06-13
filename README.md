@@ -4,6 +4,9 @@ About:
 - 🌱 I’m currently learning about _Loose coupling and tight cohesion_ (for both Programming and Politics)
 - 👯 I’m looking to collaborate on _Version Controlled Legislation_
 
+Code Snippets:
+* https://gist.github.com/FractalEurope/
+
 Contact:
 - 🤔 I’m looking for help with the `EUReformBacklog`
 - 💬 Ask me about Python, Fractal Localism, E.U. Reform...
