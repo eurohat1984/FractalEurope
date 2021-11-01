@@ -68,6 +68,8 @@ Rough notes to be fleshed out:
     * [Wikipedia](https://en.wikipedia.org/wiki/Democratic_deficit)
 * [Center for European Reform](https://www.cer.eu/about)
 * Podcast: [My Parents Voted Brexit](https://twitter.com/parents4brexit?lang=en)
+* National Media:
+    * Tony Connelly (Ireland): [RTÉ articles](https://www.rte.ie/author/822154-tony-connelly/), [twitter](https://twitter.com/tconnellyRTE)
 
 # More content by Eurohat:
 * [Python Code Memes](https://gist.github.com/FractalEurope)
