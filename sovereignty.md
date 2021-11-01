@@ -22,8 +22,8 @@ External Trade Deals
 # Independance Movements
 
 Pre-EU
-* Irish war of independance
-* Dissolution of Czechoslovakia
+* Ireland ([see below](#irish-independance))
+* Czechoslovakia
 
 Within EU
 * Scotland
@@ -46,3 +46,19 @@ Exit Candidates
 * Greece (debt)
 * Poland (legal)
 * Hungary (legal)
+
+### Irish Independance 
+From the United Kingdom ~1922
+
+All 7 signatories of the Irish Procalamation were executed in 1916:
+* [See Wikipedia Article](https://en.wikipedia.org/wiki/Proclamation_of_the_Irish_Republic)
+* What would they think of Ireland handing sovereignty to the European Union?
+
+In their words:
+> We declare the right of the people of Ireland to the ownership of Ireland.
+
+They opposed:
+> usurpation of that right by a foreign people and government
+
+And proclaimed:
+> the Irish Republic as a Sovereign Independant State
