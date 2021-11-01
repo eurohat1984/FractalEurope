@@ -1,5 +1,12 @@
 # Sovereignty
 
+### Encroachment
+Also known as "Ever Closer Union".
+
+Over time the EU is absorbing more sovereignty from member states, arguably without democratic votes on the individual issues. For example, when the EU issues a new directive it can take control of something which was previously done nationally. Over time more and more directives will be made and more and more things will fall into centralised EU sovereignty this way.
+
+On the flip side, people often complain about governments, so the more sovereignty claimed by the EU the more people will complain about it.
+
 ### EU vs. National
 Evolving list of topics and whether they should fall under EU or National Sovereignty
 
