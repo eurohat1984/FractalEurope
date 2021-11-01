@@ -74,7 +74,7 @@ Rough notes to be fleshed out:
 # More content by Eurohat:
 * [Python Code Memes](https://gist.github.com/FractalEurope)
     * Random thoughts expressed as Python code
-* `@FractalEurope` on [Twitter](https://twitter.com/FractalEurope)
+* `@eurohat1984` on [Twitter](https://twitter.com/eurohat1984)
 
 # Contact:
 - `@eurohat1984` on [Twitter](https://twitter.com/FractalEurope)
