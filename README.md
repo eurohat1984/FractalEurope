@@ -66,6 +66,8 @@ Rough notes to be fleshed out:
     * [Link](https://www.academia.edu/38433249/Scala_Politica)
 * Democratic Deficit
     * [Wikipedia](https://en.wikipedia.org/wiki/Democratic_deficit)
+* [Center for European Reform](https://www.cer.eu/about)
+* Podcast: [My Parents Voted Brexit](https://twitter.com/parents4brexit?lang=en)
 
 # More content by Eurohat:
 * [Python Code Memes](https://gist.github.com/FractalEurope)
