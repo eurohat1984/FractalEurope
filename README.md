@@ -77,10 +77,10 @@ Rough notes to be fleshed out:
 * `@FractalEurope` on [Twitter](https://twitter.com/FractalEurope)
 
 # Contact:
-- `@FractalEurope` on [Twitter](https://twitter.com/FractalEurope)
+- `@eurohat1984` on [Twitter](https://twitter.com/FractalEurope)
 
 <!--
-**FractalEurope/FractalEurope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eurohat1984/eurohat1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
