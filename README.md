@@ -72,12 +72,12 @@ Rough notes to be fleshed out:
     * Tony Connelly (Ireland): [RTÉ articles](https://www.rte.ie/author/822154-tony-connelly/), [twitter](https://twitter.com/tconnellyRTE)
 
 # More content by Eurohat:
-* [Python Code Memes](https://gist.github.com/FractalEurope)
+* [Python Code Memes](https://gist.github.com/eurohat1984)
     * Random thoughts expressed as Python code
 * `@eurohat1984` on [Twitter](https://twitter.com/eurohat1984)
 
 # Contact:
-- `@eurohat1984` on [Twitter](https://twitter.com/FractalEurope)
+- `@eurohat1984` on [Twitter](https://twitter.com/eurohat1984)
 
 <!--
 **eurohat1984/eurohat1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
