@@ -3,6 +3,20 @@
 Evolving thoughts about the European Union. Strengths, Weaknesses & ideas for reform.
 
 # Rolling Ideas
+Brexit & Movement of People
+* Disadvantages
+    * EU <-> UK movement is harder
+        * Visa requirements
+        * Charges such as NHS levy
+* Advantages
+    * Non-EU people can move to UK more easily
+      * Easier than before
+      * More equal treatment irrespective of origin country
+      * Students can stay longer after graduation
+      * Tier 2 -> Skilled Worker visa
+          * Pay threshold is lower
+          * More jobs qualify
+
 Rough notes to be fleshed out:
 * Bureaucracy
    * Good Centralisation:
