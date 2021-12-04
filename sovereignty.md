@@ -7,6 +7,8 @@ Over time the EU is absorbing more sovereignty from member states, arguably with
 
 On the flip side, people often complain about governments, so the more sovereignty claimed by the EU the more people will complain about the EU.
 
+* [Twitter Thread](https://twitter.com/nntaleb/status/1466503834331758606?s=20]) by @constans
+
 ### EU vs. National
 Evolving list of topics and whether they should fall under EU or National Sovereignty
 
