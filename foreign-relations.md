@@ -4,7 +4,7 @@ Some EU strengths when benchmarked internationally:
 * Legal System
 * Human rights
 
-On the above the EU performs well compared to other larger blocks such as
+On the above the EU performs well compared to other large blocks such as
 * Brasil, Russia, India, China
 
 There's still room to improve. I think Switzerland has stronger democracy. But just being compared to Switzerland is a sign that things are not too bad. 
