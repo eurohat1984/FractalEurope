@@ -79,12 +79,17 @@ A quick summary of Brexit Negotiations
     * e.g. inflation is global, any Brexit inflation is probably noise by comparison
 
 **Relations**
+Foreign Relations
 * Strained relations between EU/Irish politicians and Brexit team trying to renegotiate Article 16 on Northern Ireland
     * EU/Irish politicians emotively frustrated by things
 * Ongoing nagging between UK & France
     * Fishing Rights
         * Treats to cut island electricity supply from France.
     * Suspected Brexit motive behind covid travel restrictions on the UK at times e.g. December 2021. 
+
+Public Opinion in the UK
+* Seems very split and polarising
+* British people often are very pro or very anti Brexit.
 
 Other Notes:
 * Gibraltar
