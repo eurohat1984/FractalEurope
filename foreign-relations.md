@@ -61,6 +61,7 @@ A quick summary of Brexit Negotiations
      * Imports expected to follow in 2022
   2. Northern Ireland
      * **Checks within the UK** when entering Northern Ireland add friction for businesses
+* Frictions & paperwork especially hard on small businesses for whom it's not always worth the effort 
 
 **Immigration Frictions**
 * More tedious travel requirements
