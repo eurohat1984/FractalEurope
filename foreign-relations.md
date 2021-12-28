@@ -51,3 +51,36 @@ A quick summary of Brexit Negotiations
 2. Without Northern Ireland, the UK would be very weak in negotiations
     * `EU > UK`
     * `UK > Ireland`
+
+##### Brexit one year on:
+**Customs Frictions** (Duties and checks)
+* Goods
+  1. EU
+     * e.g. people in Ireland get hit when ordering from Amazon 
+  2. Northern Ireland
+     * **Checks within the UK** when entering Northern Ireland add friction for businesses
+
+**Immigration Frictions**
+* More tedious travel requirements
+* Visas required for working
+    * EU people now need same visas as rest of world
+    * Skilled worker visa requirements are more open than before
+
+**Driver Shortages**
+  * Moreso than seen in the EU
+  * A good thing for drivers, who can get good hiring conditions
+
+**Covid**
+* Difficult to untangle Brexit from covid effects
+* Covid surely has much more impact on people (2020 & 2021) than Brexit
+
+**Relations**
+* Strained relations between EU/Irish politicians and Brexit team trying to renegotiate Article 16 on Northern Ireland
+    * EU/Irish politicians emotively frustrated by things
+* Ongoing nagging between UK & France
+    * Fishing Rights
+        * Treats to cut island electricity supply from France.
+    * Suspected Brexit motive behind covid travel restrictions on the UK at times e.g. December 2021. 
+
+External Links:
+* Swiss News Article: [Le bilan des 365 premiers jours](https://www.rts.ch/info/monde/12743571-le-brexit-souffle-sa-premiere-bougie-questce-que-cela-a-change.html)
