@@ -56,7 +56,9 @@ A quick summary of Brexit Negotiations
 **Customs Frictions** (Duties and checks)
 * Goods
   1. EU
-     * e.g. people in Ireland get hit when ordering from Amazon 
+     * e.g. people in Ireland get hit when ordering from Amazon
+     * Applied to UK exports starting 2021
+     * Imports expected to follow in 2022
   2. Northern Ireland
      * **Checks within the UK** when entering Northern Ireland add friction for businesses
 
