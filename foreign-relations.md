@@ -83,5 +83,8 @@ A quick summary of Brexit Negotiations
         * Treats to cut island electricity supply from France.
     * Suspected Brexit motive behind covid travel restrictions on the UK at times e.g. December 2021. 
 
+Other Notes:
+* Gibraltar
+
 External Links:
 * Swiss News Article: [Le bilan des 365 premiers jours](https://www.rts.ch/info/monde/12743571-le-brexit-souffle-sa-premiere-bougie-questce-que-cela-a-change.html)
