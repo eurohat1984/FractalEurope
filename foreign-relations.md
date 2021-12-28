@@ -73,6 +73,7 @@ A quick summary of Brexit Negotiations
 **Covid**
 * Difficult to untangle Brexit from covid effects
 * Covid surely has much more impact on people (2020 & 2021) than Brexit
+    * e.g. inflation is global, any Brexit inflation is probably noise by comparison
 
 **Relations**
 * Strained relations between EU/Irish politicians and Brexit team trying to renegotiate Article 16 on Northern Ireland
