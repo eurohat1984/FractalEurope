@@ -11,3 +11,12 @@ What can we do?
 1. Political pressure to **stop human rights violations**
 2. Countries should **stop funding** these violations
      * e.g. via [Frontex](https://frontex.europa.eu/) the EU border control agency.
+
+### External Links
+I grabbed these links quickly for future reference and haven't read through them in detail.
+* [The Guardian (2021)](https://www.theguardian.com/global-development/2021/may/05/revealed-2000-refugee-deaths-linked-to-eu-pushbacks)
+    * Illegal EU pushbacks
+* [Euronews (2021)](https://www.euronews.com/2021/01/20/eu-migration-chief-urges-frontex-to-clarify-pushback-allegations)
+    * Investigation of misconduct by Frontex
+* [Amnesty International (2020)](https://www.amnesty.org/en/location/europe-and-central-asia/croatia/report-croaita/)
+    * Croatian border: *"expulsions, frequently accompanied by violence"*
