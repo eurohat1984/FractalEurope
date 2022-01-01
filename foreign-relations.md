@@ -8,7 +8,7 @@ Sections:
 
 # Immigration
 Human Rights Abuses
-* See [this blog article](/blog/2022/2022-01-01%20-%20EU%20Immigration%20Abuses.md) from January 2022.
+* See [this blog article](/blog/2022/2022-01-01%20-%20Migrant%20Abuse%20in%20Europe.md) from January 2022.
     * Alleged abuses by security personnel funded and organised by the EU.
 
 # International Benchmarking
