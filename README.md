@@ -1,6 +1,11 @@
 
 ### Hey it's Eurohat 👋
-Evolving thoughts about the European Union. Strengths, Weaknesses & ideas for reform.
+Welcome to Eurohat's project about the European Union.
+
+Quick Links:
+* [Brexit](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#brexit)
+* [Eurohat on Twitter](https://twitter.com/eurohat1984)
+
 
 # Rolling Ideas
 EU Achievements
