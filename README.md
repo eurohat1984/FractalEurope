@@ -5,7 +5,9 @@ Welcome to Eurohat's project about the European Union.
 ### Quick Links:
 * [Bureaucracy](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md)
 * [Democracy](https://github.com/eurohat1984/eurohat1984/blob/main/sovereignty.md)
-* [Brexit](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#brexit)
+* [Foreign Relations](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md)
+    * [Immigration](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#immigration)
+    * [Brexit](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#brexit)
 * [Roughwork](https://github.com/eurohat1984/eurohat1984/blob/main/rolling_ideas.md)
 * [Python Code](https://gist.github.com/eurohat1984)
     * Political thoughts expressed as Python code
