@@ -1,9 +1,9 @@
 Sections:
 * [Immigration](#immigration)
-* [International Benchmarking](#international-benchmarking)
-* [Relations with Superpowers](#relations-with-superpowers)
+* [Benchmarking](#international-benchmarking)
+* [Superpowers](#relations-with-superpowers)
     * [Energy Dependancy](#case-study---energy-dependancy)
-* [Relations with Smaller Nations](#relations-with-smaller-nations)
+* [Smaller Nations](#relations-with-smaller-nations)
     * [Brexit](#brexit)
 
 # Immigration
