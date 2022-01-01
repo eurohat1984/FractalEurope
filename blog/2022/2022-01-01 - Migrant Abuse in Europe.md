@@ -3,7 +3,7 @@ I am writing (and shocked) after talking with a friend who spent time on the Cro
 
 The following concerns were raised:
 * Border security **violence against migrants**
-* Border security **stealing the belongings of migrants**
+* Border security **taking belongings from migrants**
 
 The motivation is not fully clear (why would anybody do such things?). A mindset of deterance is probably part of it.
 
