@@ -45,12 +45,17 @@ The EU Single Market acts as a barrier to trade with non-members.
 ##### Trade Equality
 * Poorer nations
 
-### Brexit
+## Brexit
 A quick summary of Brexit Negotiations
 1. Larger entities have more negotiating power
 2. Without Northern Ireland, the UK would be very weak in negotiations
     * `EU > UK`
     * `UK > Ireland`
+
+##### Northern Ireland Protocol
+Also known as Article 16. Here are two speeches delivered directly by the chief Negotiators in October 2021:
+* UK: [David Frost](https://www.youtube.com/watch?v=_ULASuL3PGs)
+* EU: [Maroš Šefčovič](https://www.youtube.com/watch?v=WJU_3SDqyLs)
 
 ##### Brexit one year on:
 **Customs Frictions** (Duties and checks)
