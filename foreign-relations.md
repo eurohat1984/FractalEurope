@@ -1,4 +1,17 @@
-### International Benchmarking
+Sections:
+* [Immigration](#immigration)
+* [International Benchmarking](#international-benchmarking)
+* [Relations with Superpowers](#relations-with-superpowers)
+    * [Energy Dependancy](#case-study---energy-dependancy)
+* [Relations with Smaller Nations](#relations-with-smaller-nations)
+    * [Brexit](#brexit)
+
+# Immigration
+Human Rights Abuses
+* See [this blog article](/blog/2022/2021-01-01%20-%20EU%20Immigration%20Abuses.md) from January 2022.
+    * Alleged abuses by security personnel funded and organised by the EU.
+
+# International Benchmarking
 Some EU strengths when benchmarked internationally:
 * Democracy
 * Legal System
@@ -17,7 +30,7 @@ Three levels to think about:
 2. Leverage for blackmail
 3. Leverage held by a country you don't trust
 
-### Case Study: Energy Dependancy
+### Case Study - Energy Dependancy
 In 2021 Russia is using EU gas supply as a geopolitical tool.
 
 For example:
