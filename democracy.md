@@ -1,6 +1,15 @@
 # Democracy
 
-### *"Keep voting until you vote YES"*
+### Contents
+* [Treaties](#eu-treaties)
+* [Sovereignty](#sovereignty)
+   * [Sovereignty Encroachment](#sovereignty-encroachment)
+* [Independance Movements](#independance-movements)
+   * [Irish Independance](#irish-independance)
+
+### EU Treaties
+***"Keep voting until you vote YES"***
+
 When is it democratic to repeat a referendum?
  * **Ireland Voted twice on Nice and Lisbon treaties**
  * Nice Treaty ([1st Vote](https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_of_the_Constitution_Bill_2001), [2nd Vote](https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_of_the_Constitution_of_Ireland))
