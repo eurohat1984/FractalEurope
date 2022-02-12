@@ -7,7 +7,7 @@
 * [Independance Movements](#independance-movements)
    * [Irish Independance](#irish-independance)
 
-### EU Treaties
+## Treaties
 ***"Keep voting until you vote YES"***
 
 When is it democratic to repeat a referendum?
