@@ -15,12 +15,14 @@ External Improvements:
 ### Table of Contents
 External Affairs:
 * [Foreign Relations](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md)
+    * [Superpowers](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#relations-with-superpowers)
     * [Immigration](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#immigration)
     * [Brexit](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#brexit)
 
 Internal Affairs:
-* [Democracy](https://github.com/eurohat1984/eurohat1984/blob/main/sovereignty.md)
-* [Bureaucracy](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md)
+* [**Democracy**](https://github.com/eurohat1984/eurohat1984/blob/main/sovereignty.md)
+* [**Bureaucracy**](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md)
+    * [Finances](https://github.com/eurohat1984/eurohat1984/blob/main/money.md)
 
 Other Links:
 * [Roughwork](https://github.com/eurohat1984/eurohat1984/blob/main/rolling_ideas.md)
