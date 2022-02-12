@@ -1,7 +1,7 @@
-Sections:
+# Table of Contents
 * [Immigration](#immigration)
 * [Benchmarking](#international-benchmarking)
-* [Superpowers](#relations-with-superpowers)
+* [**Superpowers**](#relations-with-superpowers)
     * [Energy Dependancy](#case-study---energy-dependancy)
 * [Smaller Nations](#relations-with-smaller-nations)
     * [Brexit](#brexit)
