@@ -6,7 +6,7 @@ Welcome to Eurohat's project about the **European Union**.
 This repository is a collection of notes about the E.U. and ideas for improving it.
 
 Internal Improvements:
-* I think the E.U. needs better [Democracy](https://github.com/eurohat1984/eurohat1984/blob/main/sovereignty.md) and less [Bureaucracy](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md).
+* I think the E.U. needs better [Democracy](https://github.com/eurohat1984/eurohat1984/blob/main/democracy.md) and less [Bureaucracy](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md).
 
 External Improvements:
 * Deal better with [Superpowers](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#relations-with-superpowers) (e.g. 2022 Russia-Ukraine crisis ).
@@ -20,11 +20,12 @@ External Affairs:
     * [Brexit](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#brexit)
 
 Internal Affairs:
-* [**Democracy**](https://github.com/eurohat1984/eurohat1984/blob/main/sovereignty.md)
+* [**Democracy**](https://github.com/eurohat1984/eurohat1984/blob/main/democracy.md)
 * [**Bureaucracy**](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md)
     * [Finances](https://github.com/eurohat1984/eurohat1984/blob/main/money.md)
 
 Other Links:
+* [History](https://github.com/eurohat1984/eurohat1984/blob/main/history.md)
 * [Roughwork](https://github.com/eurohat1984/eurohat1984/blob/main/rolling_ideas.md)
 * [Python Code](https://gist.github.com/eurohat1984)
     * Political thoughts expressed as Python code
