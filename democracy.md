@@ -1,6 +1,14 @@
-# Sovereignty
+# Democracy
 
-### Encroachment
+### *"Keep voting until you vote YES"*
+When is it democratic to repeat a referendum?
+ * **Ireland Voted twice on Nice and Lisbon treaties**
+ * Nice Treaty ([1st Vote](https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_of_the_Constitution_Bill_2001), [2nd Vote](https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_of_the_Constitution_of_Ireland))
+ * Lisbon Treaty ([1st Vote](https://en.wikipedia.org/wiki/Twenty-eighth_Amendment_of_the_Constitution_Bill_2008), [2nd Vote](https://en.wikipedia.org/wiki/Twenty-eighth_Amendment_of_the_Constitution_of_Ireland))
+
+
+## Sovereignty
+### Sovereignty Encroachment
 Also known as "Ever Closer Union".
 
 Over time the EU is absorbing more sovereignty from member states, arguably without democratic votes on the individual issues. For example, when the EU issues a new directive it can take control of something which was previously done nationally. Over time more and more directives will be made and more and more things will fall into centralised EU sovereignty this way.
