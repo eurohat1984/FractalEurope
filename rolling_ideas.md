@@ -47,8 +47,6 @@ Rough notes to be fleshed out:
    * Difficulty measuring risks like this
        * Technical Paper by Pasquale Cirillo and Nassim Taleb
        * *The Decline of Violent Conflicts: What Do the Data Really Say?*
-* Democracy
-   * Does the EU have a democratic deficit?
 * External Trade
    * Should the EU remove trade restrictions for poor countries?
 * Non-Members
