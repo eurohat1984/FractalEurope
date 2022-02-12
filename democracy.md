@@ -62,6 +62,7 @@ Exit Candidates
 * Italy (debt)
 * Greece (debt)
 * Poland (legal)
+* France (Political)
 * Hungary (legal)
 
 ### Irish Independance 
