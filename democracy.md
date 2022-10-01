@@ -6,6 +6,7 @@
    * [Sovereignty Encroachment](#sovereignty-encroachment)
 * [Independance Movements](#independance-movements)
    * [Irish Independance](#irish-independance)
+* [Accountability](#accountability)
 
 ## Treaties
 ***"Keep voting until you vote YES"***
@@ -89,3 +90,10 @@ They opposed:
 
 And proclaimed:
 > the Irish Republic as a Sovereign Independant State
+
+## Accountability
+*The EU Commission has no opposition*
+    * Contrast with US President who is held accountable by congress and at re-election
+    * Contrast with Irish government held accountable by the Dáil opposition party
+    * The EU Parliament exists but it doesn't have a clear cut **opposition party**
+
