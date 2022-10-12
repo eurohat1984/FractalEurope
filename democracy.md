@@ -17,6 +17,17 @@ When is it democratic to repeat a referendum?
  * Nice Treaty ([1st Vote](https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_of_the_Constitution_Bill_2001), [2nd Vote](https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_of_the_Constitution_of_Ireland))
  * Lisbon Treaty ([1st Vote](https://en.wikipedia.org/wiki/Twenty-eighth_Amendment_of_the_Constitution_Bill_2008), [2nd Vote](https://en.wikipedia.org/wiki/Twenty-eighth_Amendment_of_the_Constitution_of_Ireland))
 
+**Breaking the spirit of Treaties with Technicalities** 
+Energy Solidarity Contribution (September 2022)
+* A tax euphemistically called a *contribution* to avoid legal challenges
+* [Official Description](https://ec.europa.eu/commission/presscorner/detail/en/qanda_22_5490)
+   * ""Establishing this **solidarity contribution** as a European instrument will ensure that negative spillovers within the internal energy market stemming from uncoordinated national measures can be avoided and **risks of litigation between companies and governments can be reduced** substantially.""
+* This measure is also retrospective which sounds not great to me. Announced in September 2022 it applies to profits for 2022 which includes before the announcement.
+
+Energy Price Cap (Winter 2022)
+* To be confirmed I'm told this is also purposely not called a tax
+* If it was officially called a *tax* it would require unanimous voting
+* By calling it something else they only need qualified majority voting
 
 ## Sovereignty
 ### Sovereignty Encroachment
