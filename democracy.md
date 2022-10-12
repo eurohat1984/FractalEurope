@@ -94,9 +94,9 @@ And proclaimed:
 
 ## Accountability
 *The EU Commission has no opposition*
-    * Contrast with US President who is held accountable by congress and at re-election
-    * Contrast with Irish government held accountable by the Dáil opposition party
-    * The EU Parliament exists but it doesn't have a clear cut **opposition party**
+* Contrast with US President who is held accountable by congress and at re-election
+* Contrast with Irish government held accountable by the Dáil opposition party
+* The EU Parliament exists but it doesn't have a clear cut **opposition party**
 
 ### Constructive Criticism
 
