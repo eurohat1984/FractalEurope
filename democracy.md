@@ -10,14 +10,15 @@
   * [Constructive Criticism](#constructive-criticism)
 
 ## Treaties
-***"Keep voting until you vote YES"***
+### ***"Keep voting until you vote YES"***
 
 When is it democratic to repeat a referendum?
  * **Ireland Voted twice on Nice and Lisbon treaties**
  * Nice Treaty ([1st Vote](https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_of_the_Constitution_Bill_2001), [2nd Vote](https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_of_the_Constitution_of_Ireland))
  * Lisbon Treaty ([1st Vote](https://en.wikipedia.org/wiki/Twenty-eighth_Amendment_of_the_Constitution_Bill_2008), [2nd Vote](https://en.wikipedia.org/wiki/Twenty-eighth_Amendment_of_the_Constitution_of_Ireland))
 
-**Breaking the spirit of Treaties with Technicalities** 
+
+### **Breaking the spirit of Treaties with Technicalities** 
 Energy Solidarity Contribution (September 2022)
 * A tax euphemistically called a *contribution* to avoid legal challenges
 * [Official Description](https://ec.europa.eu/commission/presscorner/detail/en/qanda_22_5490)
