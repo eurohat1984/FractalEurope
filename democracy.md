@@ -98,7 +98,7 @@ And proclaimed:
     * Contrast with Irish government held accountable by the Dáil opposition party
     * The EU Parliament exists but it doesn't have a clear cut **opposition party**
 
-### [Constructive Criticism](#constructive-criticism)
+### Constructive Criticism
 
 Instead of being pro or anti-EU we need people who are pro-EU and critical because they want it to be even better.
 
