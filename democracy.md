@@ -7,6 +7,7 @@
 * [Independance Movements](#independance-movements)
    * [Irish Independance](#irish-independance)
 * [Accountability](#accountability)
+  * [Constructive Criticism](#constructive-criticism)
 
 ## Treaties
 ***"Keep voting until you vote YES"***
@@ -97,3 +98,9 @@ And proclaimed:
     * Contrast with Irish government held accountable by the Dáil opposition party
     * The EU Parliament exists but it doesn't have a clear cut **opposition party**
 
+### [Constructive Criticism](#constructive-criticism)
+
+Instead of being pro or anti-EU we need people who are pro-EU and critical because they want it to be even better.
+
+For example
+* Josep Borrell (EU Foreign Affairs Representative) [October 2022 Speech amidst the war in Ukraine](https://www.eeas.europa.eu/eeas/eu-ambassadors-annual-conference-2022-opening-speech-high-representative-josep-borrell_en)
