@@ -104,6 +104,9 @@ They opposed:
 And proclaimed:
 > the Irish Republic as a Sovereign Independant State
 
+However:
+* It's worth bearing in mind that EU membership isn't oppressive in the way that British Rule was
+
 ## Accountability
 *The EU Commission has no opposition*
 * Contrast with US President who is held accountable by congress and at re-election
