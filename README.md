@@ -41,4 +41,9 @@ Other Links:
 * [Center for European Reform](https://www.cer.eu/about)
 * Podcast: [My Parents Voted Brexit](https://twitter.com/parents4brexit?lang=en)
 * National Media:
-    * Tony Connelly (Ireland): [RTÉ articles](https://www.rte.ie/author/822154-tony-connelly/), [twitter](https://twitter.com/tconnellyRTE)
+    * Ireland:
+        * Generally pro-EU
+        * Occasionally questions EU powers on particular topics such as corporate tax.
+        * [RTÉ News Articles](https://www.rte.ie/author/822154-tony-connelly/), 
+        * [Tony Connelly Twitter](https://twitter.com/tconnellyRTE)
+        * [50 Years of Irish membership](https://www.rte.ie/news/2023/0101/1344318-ireland-at-50/)
