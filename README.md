@@ -5,12 +5,19 @@ Welcome to Eurohat's project about the **European Union**.
 ### Summary
 This repository is a collection of notes about the E.U. and ideas for improving it.
 
+*Instead of being pro or anti-EU we need people who are pro-EU and critical because they want it to be even better.*
+
 Internal Improvements:
 * I think the E.U. needs more [Democracy](https://github.com/eurohat1984/eurohat1984/blob/main/democracy.md) and less [Bureaucracy](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md).
 
 External Improvements:
 * Deal better with [Superpowers](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#relations-with-superpowers) (e.g. 2022 Russia-Ukraine crisis ).
 * Be kinder to non-members (especially [neighbours](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#brexit) and [poorer countries](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#barriers-to-trade))
+
+International Benchmarks:
+* Everything is relative
+* Compared to the Russian Government the EU Commission is wonderful. See the War in Ukraine and [Russian Businessmen Mystery Deaths](https://en.wikipedia.org/wiki/2022_Russian_businessmen_mystery_deaths).
+* Compared to the Swiss Government the EU can probably improve, at least in some areas.
 
 ### Table of Contents
 External Affairs:
