@@ -106,6 +106,7 @@ And proclaimed:
 
 However:
 * It's worth bearing in mind that EU membership isn't oppressive in the way that British Rule was
+* Temper that too with a context where executions were more common. The Irish Free state subsequently executed rebels including [Robert Erskine Childers](https://www.rte.ie/news/ireland/2022/1122/1337715-robert-erskine-childers/)
 
 ## Accountability
 *The EU Commission has no opposition*
