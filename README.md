@@ -16,7 +16,7 @@ External Improvements:
 
 International Benchmarks:
 * Everything is relative
-* Compared to the Russian Government the EU Commission is wonderful. See the War in Ukraine and [Russian Businessmen Mystery Deaths](https://en.wikipedia.org/wiki/2022_Russian_businessmen_mystery_deaths).
+* Compared to the Russian Government the EU Commission is wonderful. See the War in Ukraine and [Russian Businessmen Mystery Deaths 2022](https://en.wikipedia.org/wiki/2022_Russian_businessmen_mystery_deaths).
 * Compared to the Swiss Government the EU can probably improve, at least in some areas.
 
 ### Table of Contents
