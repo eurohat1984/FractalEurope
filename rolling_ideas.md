@@ -1,6 +1,9 @@
 # Rolling Ideas
 Ideas noted down quickly when I don't have time to sort them further.
 
+Rolling Odd EU Decisions
+* [TV & Streaming 30% European Content](https://www.europarl.europa.eu/news/en/headlines/society/20180920STO14026/audiovisual-media-meps-approve-new-rules-fit-for-a-digital-age)
+
 EU Achievements
 * https://european-union.europa.eu/priorities-and-actions/achievements_en
 
