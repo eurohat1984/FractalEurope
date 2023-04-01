@@ -31,6 +31,10 @@ Internal Affairs:
 * [**Bureaucracy**](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md)
     * [Finances](https://github.com/eurohat1984/eurohat1984/blob/main/money.md)
 
+Beyond Europe:
+* [India](https://github.com/eurohat1984/eurohat1984/blob/main/india.md)
+* [Israel](https://github.com/eurohat1984/eurohat1984/blob/main/israel.md)
+
 Other Links:
 * [History](https://github.com/eurohat1984/eurohat1984/blob/main/history.md)
 * [Roughwork](https://github.com/eurohat1984/eurohat1984/blob/main/rolling_ideas.md)
