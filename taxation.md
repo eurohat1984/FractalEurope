@@ -8,8 +8,8 @@ Rough Notes:
 Claims that facebook pays too little tax in Ireland
 
 Recommendation
+* TL;DR stuff should be taxed in the country where it happens.
 * Facebook should pay **less** tax in Ireland because it doesn't do that much business there (add revenue, employees, ...)
 * Countries complaining (e.g. France) about Irish tax are the ones failing to tax facebook
   * If their claims are so substantiated about Facebook presence then they should tax Facebook to the amount they see fit (e.g. based on advertising revenue)
 * If EU rules block changes the EU should change rules so that countries can tax based on presence (sales / advertising / staff count). And maybe corporate tax isn't the right mechanism. Maybe income or vat is better but that's another story.
-
