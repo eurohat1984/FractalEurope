@@ -55,8 +55,20 @@ Solution:
 ### Barriers to Trade
 The EU Single Market acts as a barrier to trade with non-members.
 
-##### Trade Equality
-* Poorer nations
+##### Trade Inequality
+The EU has taxation and **trade barriers with poorer nations** and non-members in general.
+
+Example:
+* African countries face customs duties and trade rules which put them at a disadvantage compared to EU member states.
+   * Maybe the EU should focus more on supporting developing countries through trade, and give permissions closer to member state access
+   * In the long run trade as equals is preferable to providing aid but second class treatment for trade
+   * This is very different from trade with larger blocks of comparable size to the EU (e.g. USA, China, India) because small countries are particularly vulnerable to being pushed around by larger blocks. Like playing poker when one person has far more chips and can scare off everyone else.
+
+Also See:
+* EU "Trade defence investigations"
+   * [Wiki](https://en.wikipedia.org/wiki/Trade_defence_instrument)
+   * [EU Export Investigations Page](https://tron.trade.ec.europa.eu/investigations/cases)
+* [EU-Ghana endorse market access offer](https://policy.trade.ec.europa.eu/news/eu-ghana-endorse-market-access-offer-and-schedule-under-economic-partnership-agreement-2019-11-29_en)
 
 ## Brexit
 A quick summary of Brexit Negotiations
