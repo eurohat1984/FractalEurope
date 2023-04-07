@@ -12,7 +12,7 @@ Internal Improvements:
 
 External Improvements:
 * Deal better with [Superpowers](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#relations-with-superpowers) (e.g. 2022 Russia-Ukraine crisis ).
-* Be kinder to non-members (especially [neighbours](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#brexit) and [poorer countries](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#barriers-to-trade))
+* Be kinder to non-members (especially [poorer countries](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#barriers-to-trade) e.g. **trade barriers with Africa**; and [neighbours](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#brexit) too.)
 
 International Benchmarks:
 * Everything is relative
