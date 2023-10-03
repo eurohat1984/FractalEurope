@@ -18,3 +18,8 @@
 ## Internet Blackouts
 
 ## Threat to Journalists
+2023-10 Journalism Raid
+* [NewsClick Raid of Organisation and Journalists](https://www.bbc.co.uk/news/world-asia-india-66909370)
+    * Initial BBC Headline: `NewsClick: Raid on India news site over China funding claims
+    * Government critics arrested
+    * *A case was reportedly registered against the website under UAPA, a draconian anti-terror law that makes it nearly impossible to get bail.*
