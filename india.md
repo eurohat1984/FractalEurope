@@ -51,4 +51,5 @@ See my blog on the European Union for views on the bullying of smaller political
 Context
 * BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
 * India suffers widely from corruption and this will be the case no matter who is in government, at least initially (legal system, police, ...)
-* One can presume that any successful politician and business person has *navigated* this to some greater or lesser extent
+* One can presume that any successful politician and business person has "navigated" this to some greater or lesser extent
+* It's distinctly different from corruption in the UK, France, Switzerland where overt corruption is rare day-to-day and there is a there is fear of being called out (by the media / reported to superiors / whistleblowing )
