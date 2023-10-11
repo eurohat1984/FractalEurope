@@ -34,3 +34,9 @@
     * Initial BBC Headline: `NewsClick: Raid on India news site over China funding claims`
     * Government critics arrested
     * *A case was reportedly registered against the website under UAPA, a draconian anti-terror law that makes it nearly impossible to get bail.*
+
+## Political Suppression
+2023 Suspension of Opposition Leader
+* Opposition party leader Rahul Gandhi was convicted of *defaming all people with the Modi surname*
+* The conviction disqualified Gandhi as a member of parliament
+* As of August 2023 he has the conviction stayed by the Supreme Court of India pending appeal
