@@ -1,17 +1,15 @@
 # Indian Politics
 ## Narendra Modi and the BJP
-* Political Oppression:
-    * *Indian court orders Rahul Gandhi to two years in jail for Modi comment*
-    * [Reuters Article 2023-03-23](https://www.reuters.com/world/india/indian-court-convicts-gandhi-defamation-gives-two-year-sentence-2023-03-23/)
+Sections
+* [Internet Blackouts](#internet-blackouts)
+* [Suppression of Journalists](#suppression-of-journalists)
+* [Political Suppression](#political-suppression)
+* [International Bullying](#international-bullying)
+* [Corruption](#corruption)
+
 * Labelling criticism as "anti-India" and "colonial":
   * *What is the BBC Modi documentary and why is it so controversial?*
   * [The Guardian 2023-02-14](https://www.theguardian.com/world/2023/feb/14/why-is-bbc-report-on-narendra-modis-handling-of-sectarian-riots-in-2002-so-controversial)
-* Legal Retaliation
-  *BBC India offices searched by income tax officials*
-  * [BBC 2023-02-14](https://www.bbc.com/news/world-asia-india-64634711.amp)
-* Adani Allegations
-  * *Adani is widely regarded as being close to Prime Minister Narendra Modi and has publicly aligned his business with the government’s growth agenda.*
-  * [Financial Times 2023-03-02](https://www.ft.com/content/578df2dc-71d7-4ca3-aaff-7db4d52a38fc) 
 
 Successes of Modi and the BJP government
 * BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
@@ -30,11 +28,24 @@ Successes of Modi and the BJP government
     * Government critics arrested
     * *A case was reportedly registered against the website under UAPA, a draconian anti-terror law that makes it nearly impossible to get bail.*
 
+2023-02 Raid on BBC Offices in response to Modi Documentary
+*BBC India offices searched by income tax officials*
+* [BBC 2023-02-14](https://www.bbc.com/news/world-asia-india-64634711.amp)
+
+2023 Bad Ranking for Press Freedom
+* [Reporters Without Borders](https://rsf.org/en/country/india)
+* 161 out of 180 countries 
+* I know Indians like to get full marks but approaching 180/180 is a bad sign under this metric!
+
 ### Political Suppression
-2023 Suspension of Opposition Leader
+Disqualification of Opposition Leader from Parliament
+* *Indian court orders Rahul Gandhi to two years in jail for Modi comment*
 * Opposition party leader Rahul Gandhi was convicted of *defaming all people with the Modi surname*
 * The conviction disqualified Gandhi as a member of parliament
 * As of August 2023 he has the conviction stayed by the Supreme Court of India pending appeal
+* Links:
+   * [Reuters Article 2023-03-23](https://www.reuters.com/world/india/indian-court-convicts-gandhi-defamation-gives-two-year-sentence-2023-03-23/)
+   * [Wikipedia: Disqualificatino of Rahul Gandhi](https://en.wikipedia.org/wiki/Disqualification_of_Rahul_Gandhi)
 
 ### International Bullying
 See my blog on the European Union for views on the bullying of smaller political groups by larger ones.
@@ -54,3 +65,8 @@ Context
 * India suffers widely from corruption and this will be the case no matter who is in government, at least initially (legal system, police, ...)
 * One can presume that any successful politician and business person has "navigated" this to some greater or lesser extent
 * It's distinctly different from corruption in the UK, France, Switzerland where overt corruption is rare day-to-day and there is a there is fear of being called out (by the media / reported to superiors / whistleblowing )
+
+2023-03 Adani Allegations
+* *Adani is widely regarded as being close to Prime Minister Narendra Modi and has publicly aligned his business with the government’s growth agenda.*
+* [Financial Times 2023-03-02](https://www.ft.com/content/578df2dc-71d7-4ca3-aaff-7db4d52a38fc) 
+* Adani's 2022 takeover of NDTV media outlet is also concerning, adding it to a list of outlets such as Hindustan Times which are now biased in favour of Modi and the BJP. Critical reporting has been pushed to more informal whatsapp channels etc. amid a clearout of critics in the major Indian media institutions.
