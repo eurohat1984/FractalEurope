@@ -1,17 +1,17 @@
 # Indian Politics
 ## Narendra Modi and the BJP
-Sections
-* [Internet Blackouts](#internet-blackouts)
-* [Suppression of Journalists](#suppression-of-journalists)
-* [Political Suppression](#political-suppression)
-* [International Bullying](#international-bullying)
-* [Corruption](#corruption)
+Sections:
+* [Successes](#successes)
+* Criticism
+    * [Internet Blackouts](#internet-blackouts)
+    * [Suppression of Journalists](#suppression-of-journalists)
+    * [Political Suppression](#political-suppression)
+    * [International Bullying](#international-bullying)
+    * [Corruption](#corruption)
+    * [Deflection Tactics](#deflection-tactics)
 
-* Labelling criticism as "anti-India" and "colonial":
-  * *What is the BBC Modi documentary and why is it so controversial?*
-  * [The Guardian 2023-02-14](https://www.theguardian.com/world/2023/feb/14/why-is-bbc-report-on-narendra-modis-handling-of-sectarian-riots-in-2002-so-controversial)
-
-Successes of Modi and the BJP government
+### Successes
+Successes of Modi and the BJP government:
 * BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
 * BJP has presided over successes in technology
     * Government payment systems such as UPI Pay
@@ -29,7 +29,9 @@ Successes of Modi and the BJP government
     * *A case was reportedly registered against the website under UAPA, a draconian anti-terror law that makes it nearly impossible to get bail.*
 
 2023-02 Raid on BBC Offices in response to Modi Documentary
-*BBC India offices searched by income tax officials*
+* *What is the BBC Modi documentary and why is it so controversial?*
+* [The Guardian 2023-02-14](https://www.theguardian.com/world/2023/feb/14/why-is-bbc-report-on-narendra-modis-handling-of-sectarian-riots-in-2002-so-controversial)
+* *BBC India offices searched by income tax officials*
 * [BBC 2023-02-14](https://www.bbc.com/news/world-asia-india-64634711.amp)
 
 2023 Bad Ranking for Press Freedom
@@ -70,3 +72,7 @@ Context
 * *Adani is widely regarded as being close to Prime Minister Narendra Modi and has publicly aligned his business with the government’s growth agenda.*
 * [Financial Times 2023-03-02](https://www.ft.com/content/578df2dc-71d7-4ca3-aaff-7db4d52a38fc) 
 * Adani's 2022 takeover of NDTV media outlet is also concerning, adding it to a list of outlets such as Hindustan Times which are now biased in favour of Modi and the BJP. Critical reporting has been pushed to more informal whatsapp channels etc. amid a clearout of critics in the major Indian media institutions.
+
+### Deflection Tactics
+1. Labelling criticism as "anti-India" and "colonial":
+  * For example, the BJP response to the BBC's Modi Documentary
