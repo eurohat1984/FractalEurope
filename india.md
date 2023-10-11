@@ -17,6 +17,16 @@
 
 ## Internet Blackouts
 
+## International Bullying
+2023 Sikh Activist Murder in Canada
+* Canadian PM Trudeau said that there is a potential link with the government of India based on his security sources
+* Rather than cooperating with an investigation India retaliated like a bully and stopped issuing visas, expelled diplomats, retaliated by saying Canada shouldn't have more diplomats in India than India has in Canada etc.
+* India reiterated that it is concerned about Khalistani extremists in Canada (this doesn't exactly help their case that they want people to believe they are not involved)
+* [Hindustan Times: Trudeau 'Complains' Against India During Talks With World Leaders](https://www.youtube.com/watch?v=BZouC4QiCHE)
+* [Financial Times: Ottawa attempts to mend rift with New Delhi over murder of Sikh separatist](https://www.ft.com/content/146b4e53-07aa-4cc0-9ed7-064532fbb39c)
+* [Nijjar Wikipedia Page](https://en.wikipedia.org/wiki/Hardeep_Singh_Nijjar#Allegation_of_Indian_responsibility)
+* Interestingly a bunch of memes went around twitter mocking Trudeau with *alternative* topic summaries that end in *'We also spoke about India'*
+
 ## Threat to Journalists
 2023-10 Raid on Government Critics
 * [NewsClick Raid of Organisation and Journalists](https://www.bbc.co.uk/news/world-asia-india-66909370)
