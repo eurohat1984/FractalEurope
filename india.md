@@ -12,6 +12,13 @@
   * *Adani is widely regarded as being close to Prime Minister Narendra Modi and has publicly aligned his business with the government’s growth agenda.*
   * [Financial Times 2023-03-02](https://www.ft.com/content/578df2dc-71d7-4ca3-aaff-7db4d52a38fc) 
 
+Successes of Modi and the BJP government
+* BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
+* BJP has presided over successes in technology
+    * Government payment systems such as UPI Pay
+    * Private technology such as tech giants
+    * Start ups
+
 ## Internet Blackouts
 * [2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
 
@@ -39,3 +46,9 @@ See my blog on the European Union for views on the bullying of smaller political
 * [Financial Times: Ottawa attempts to mend rift with New Delhi over murder of Sikh separatist](https://www.ft.com/content/146b4e53-07aa-4cc0-9ed7-064532fbb39c)
 * [Nijjar Wikipedia Page](https://en.wikipedia.org/wiki/Hardeep_Singh_Nijjar#Allegation_of_Indian_responsibility)
 * Interestingly a bunch of memes went around twitter mocking Trudeau with *alternative* topic summaries that end in *'We also spoke about India'*
+
+## Corruption
+Context
+* BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
+* India suffers widely from corruption and this will be the case no matter who is in government, at least initially (legal system, police, ...)
+* One can presume that any successful politician and business person has *navigated* this to some greater or lesser extent
