@@ -19,6 +19,8 @@
 * [2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
 
 ## International Bullying
+See my blog on the European Union for views on the bullying of smaller political groups by larger ones.
+
 2023 Sikh Activist Murder in Canada
 * Canadian PM Trudeau said that there is a potential link with the government of India based on his security sources
 * Rather than cooperating with an investigation India retaliated like a bully and stopped issuing visas, expelled diplomats, retaliated by saying Canada shouldn't have more diplomats in India than India has in Canada etc.
