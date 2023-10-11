@@ -1,3 +1,4 @@
+# Indian Politics
 ## Narendra Modi and the BJP
 * Political Oppression:
     * *Indian court orders Rahul Gandhi to two years in jail for Modi comment*
@@ -19,23 +20,23 @@ Successes of Modi and the BJP government
     * Private technology such as tech giants
     * Start ups
 
-## Internet Blackouts
+### Internet Blackouts
 * [2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
 
-## Suppression of Journalists
+### Suppression of Journalists
 2023-10 Raid on Government Critics
 * [NewsClick Raid of Organisation and Journalists](https://www.bbc.co.uk/news/world-asia-india-66909370)
     * Initial BBC Headline: `NewsClick: Raid on India news site over China funding claims`
     * Government critics arrested
     * *A case was reportedly registered against the website under UAPA, a draconian anti-terror law that makes it nearly impossible to get bail.*
 
-## Political Suppression
+### Political Suppression
 2023 Suspension of Opposition Leader
 * Opposition party leader Rahul Gandhi was convicted of *defaming all people with the Modi surname*
 * The conviction disqualified Gandhi as a member of parliament
 * As of August 2023 he has the conviction stayed by the Supreme Court of India pending appeal
 
-## International Bullying
+### International Bullying
 See my blog on the European Union for views on the bullying of smaller political groups by larger ones.
 
 2023 Sikh Activist Murder in Canada
@@ -47,7 +48,7 @@ See my blog on the European Union for views on the bullying of smaller political
 * [Nijjar Wikipedia Page](https://en.wikipedia.org/wiki/Hardeep_Singh_Nijjar#Allegation_of_Indian_responsibility)
 * Interestingly a bunch of twitter memes went around indian media outlets mocking Trudeau. Various fictional stories that end in *'We also spoke about India'*. The lack of a good punch line makes me suspect this is pushed by the Modi/BJP IT army moreso than naturally shared.
 
-## Corruption
+### Corruption
 Context
 * BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
 * India suffers widely from corruption and this will be the case no matter who is in government, at least initially (legal system, police, ...)
