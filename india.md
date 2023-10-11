@@ -18,19 +18,7 @@
 ## Internet Blackouts
 * [2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
 
-## International Bullying
-See my blog on the European Union for views on the bullying of smaller political groups by larger ones.
-
-2023 Sikh Activist Murder in Canada
-* Canadian PM Trudeau said that there is a potential link with the government of India based on his security sources
-* Rather than cooperating with an investigation India retaliated like a bully and stopped issuing visas, expelled diplomats, retaliated by saying Canada shouldn't have more diplomats in India than India has in Canada etc.
-* India reiterated that it is concerned about Khalistani extremists in Canada (this doesn't exactly help their case that they want people to believe they are not involved)
-* [Hindustan Times: Trudeau 'Complains' Against India During Talks With World Leaders](https://www.youtube.com/watch?v=BZouC4QiCHE)
-* [Financial Times: Ottawa attempts to mend rift with New Delhi over murder of Sikh separatist](https://www.ft.com/content/146b4e53-07aa-4cc0-9ed7-064532fbb39c)
-* [Nijjar Wikipedia Page](https://en.wikipedia.org/wiki/Hardeep_Singh_Nijjar#Allegation_of_Indian_responsibility)
-* Interestingly a bunch of memes went around twitter mocking Trudeau with *alternative* topic summaries that end in *'We also spoke about India'*
-
-## Threat to Journalists
+## Suppression of Journalists
 2023-10 Raid on Government Critics
 * [NewsClick Raid of Organisation and Journalists](https://www.bbc.co.uk/news/world-asia-india-66909370)
     * Initial BBC Headline: `NewsClick: Raid on India news site over China funding claims`
@@ -42,3 +30,15 @@ See my blog on the European Union for views on the bullying of smaller political
 * Opposition party leader Rahul Gandhi was convicted of *defaming all people with the Modi surname*
 * The conviction disqualified Gandhi as a member of parliament
 * As of August 2023 he has the conviction stayed by the Supreme Court of India pending appeal
+
+## International Bullying
+See my blog on the European Union for views on the bullying of smaller political groups by larger ones.
+
+2023 Sikh Activist Murder in Canada
+* Canadian PM Trudeau said that there is a potential link with the government of India based on his security sources
+* Rather than cooperating with an investigation India retaliated like a bully and stopped issuing visas, expelled diplomats, retaliated by saying Canada shouldn't have more diplomats in India than India has in Canada etc.
+* India reiterated that it is concerned about Khalistani extremists in Canada (this doesn't exactly help their case that they want people to believe they are not involved)
+* [Hindustan Times: Trudeau 'Complains' Against India During Talks With World Leaders](https://www.youtube.com/watch?v=BZouC4QiCHE)
+* [Financial Times: Ottawa attempts to mend rift with New Delhi over murder of Sikh separatist](https://www.ft.com/content/146b4e53-07aa-4cc0-9ed7-064532fbb39c)
+* [Nijjar Wikipedia Page](https://en.wikipedia.org/wiki/Hardeep_Singh_Nijjar#Allegation_of_Indian_responsibility)
+* Interestingly a bunch of memes went around twitter mocking Trudeau with *alternative* topic summaries that end in *'We also spoke about India'*
