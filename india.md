@@ -16,6 +16,7 @@
 ## Corruption
 
 ## Internet Blackouts
+[2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts
 
 ## International Bullying
 2023 Sikh Activist Murder in Canada
