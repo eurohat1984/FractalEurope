@@ -3,12 +3,12 @@
 Sections:
 * [Successes](#successes)
 * Criticism
-    * [Internet Blackouts](#internet-blackouts)
     * [Suppression of Journalists](#suppression-of-journalists)
     * [Political Suppression](#political-suppression)
+    * [Internet Blackouts](#internet-blackouts)
     * [International Bullying](#international-bullying)
     * [Corruption](#corruption)
-    * [Deflection Tactics](#deflection-tactics)
+* [Deflection Tactics](#deflection-tactics)
 
 ### Successes
 Successes of Modi and the BJP government:
@@ -18,10 +18,9 @@ Successes of Modi and the BJP government:
     * Private technology such as tech giants
     * Start ups
 
-### Internet Blackouts
-* [2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
-
 ### Suppression of Journalists
+About suppression, threats, violance, intimidation etc. against journalists critical of the government
+
 2023-10 Raid on Government Critics
 * [NewsClick Raid of Organisation and Journalists](https://www.bbc.co.uk/news/world-asia-india-66909370)
     * Initial BBC Headline: `NewsClick: Raid on India news site over China funding claims`
@@ -49,6 +48,9 @@ Disqualification of Opposition Leader from Parliament
    * [Reuters Article 2023-03-23](https://www.reuters.com/world/india/indian-court-convicts-gandhi-defamation-gives-two-year-sentence-2023-03-23/)
    * [Wikipedia: Disqualificatino of Rahul Gandhi](https://en.wikipedia.org/wiki/Disqualification_of_Rahul_Gandhi)
 
+### Internet Blackouts
+* [2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
+
 ### International Bullying
 See my blog on the European Union for views on the bullying of smaller political groups by larger ones.
 
@@ -74,5 +76,10 @@ Context
 * Adani's 2022 takeover of NDTV media outlet is also concerning, adding it to a list of outlets such as Hindustan Times which are now biased in favour of Modi and the BJP. Critical reporting has been pushed to more informal whatsapp channels etc. amid a clearout of critics in the major Indian media institutions.
 
 ### Deflection Tactics
+For Context: Putin's Kremlin is the master of all deflection tactics. With twisted language such as *invasion* -> "special operation" they have shown us all the benefit of documenting deflection tactics into categories so they can be more readily responded to.
+
 1. Labelling criticism as "anti-India" and "colonial":
   * For example, the BJP response to the BBC's Modi Documentary
+  * As if to say that Modi=India
+2. Acusing people you don't like of "foreign influence"
+  * For example, when the police raided NewsClick they accused it of being a Chinese propoganda outlet
