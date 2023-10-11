@@ -1,4 +1,4 @@
-# Narendra Modi and the BJP
+## Narendra Modi and the BJP
 * Political Oppression:
     * *Indian court orders Rahul Gandhi to two years in jail for Modi comment*
     * [Reuters Article 2023-03-23](https://www.reuters.com/world/india/indian-court-convicts-gandhi-defamation-gives-two-year-sentence-2023-03-23/)
@@ -11,9 +11,6 @@
 * Adani Allegations
   * *Adani is widely regarded as being close to Prime Minister Narendra Modi and has publicly aligned his business with the government’s growth agenda.*
   * [Financial Times 2023-03-02](https://www.ft.com/content/578df2dc-71d7-4ca3-aaff-7db4d52a38fc) 
-
-# Roughwork
-## Corruption
 
 ## Internet Blackouts
 * [2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
