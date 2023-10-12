@@ -62,7 +62,7 @@ Disqualification of Opposition Leader from Parliament
    * [Wikipedia: Disqualificatino of Rahul Gandhi](https://en.wikipedia.org/wiki/Disqualification_of_Rahul_Gandhi)
 
 #### Regional Suppression
-2019 Revokation of Kashmiri Autonomy
+2019 Revocation of Kashmiri Autonomy
 * *In 2019, Mr. Modi’s government abruptly revoked Kashmir’s autonomous status without public input from the territory’s people, sent in thousands of troops and shut down internet access.*
 * [Wiki: Revocation of Special Status](https://en.wikipedia.org/wiki/Revocation_of_the_special_status_of_Jammu_and_Kashmir)
 * [Wiki: Kashmir Lockdown](https://en.wikipedia.org/wiki/2019%E2%80%932021_Jammu_and_Kashmir_lockdown)
