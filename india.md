@@ -1,6 +1,6 @@
 # Indian Politics
 Sections
-* Narendra Modi and the BJP
+* [Narendra Modi and the BJP Party](#narendra-modi-and-the-bjp-party)
 
 Yet to be added:
 * Other Political Parties
@@ -8,7 +8,7 @@ Yet to be added:
     * Aam Aadmi Party - regional Party in New Delhi and nearby
     * Regional Parties - especially in Southern states
 
-## Narendra Modi and the BJP
+## Narendra Modi and the BJP Party
 Sub-Sections:
 * [Successes](#successes)
 * Criticism
