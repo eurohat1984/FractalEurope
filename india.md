@@ -83,6 +83,11 @@ See my blog on the European Union for views on the bullying of smaller political
     * [Nijjar Wikipedia Page](https://en.wikipedia.org/wiki/Hardeep_Singh_Nijjar#Allegation_of_Indian_responsibility)
 * Interestingly a bunch of twitter memes went around Indian media outlets mocking Trudeau. Various fictional stories that end in *'We also spoke about India'*. The lack of a good punch line makes me suspect this is pushed by the Modi/BJP IT army moreso than naturally shared.
 
+2023 BBC Documentary and British PM Sunak
+* With so much of his family and wealth tied to india PM Sunak is effectively silenced from criticising the Modi Government (What if they find Tax allegations like they did with the BBC)
+* Sunak is limited to the meek statements like *"we do not tolerate persecution anywhere"*
+* And depending how you read between the lines he tries to console Modi with vagueries such as *I am not sure that I agree at all with the characterisation* [of Modi]
+
 #### Corruption
 Context
 * BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
