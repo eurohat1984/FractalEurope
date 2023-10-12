@@ -1,6 +1,15 @@
 # Indian Politics
+Sections
+* Narendra Modi and the BJP
+
+Yet to be added:
+* Other Political Parties
+    * Congress Party - corrupt when in office / but more tolerant religiously/politically
+    * Aam Aadmi Party - regional Party in New Delhi and nearby
+    * Regional Parties - especially in Southern states
+
 ## Narendra Modi and the BJP
-Sections:
+Sub-Sections:
 * [Successes](#successes)
 * Criticism
     * [Suppression of Journalists](#suppression-of-journalists)
@@ -8,6 +17,7 @@ Sections:
     * [Internet Blackouts](#internet-blackouts)
     * [International Bullying](#international-bullying)
     * [Corruption](#corruption)
+    * [Silence on Atrocities](#silence-on-atrocities)
 * [Deflection Tactics](#deflection-tactics)
 
 ### Successes
@@ -74,6 +84,14 @@ Context
 * [Financial Times 2023-03-02](https://www.ft.com/content/578df2dc-71d7-4ca3-aaff-7db4d52a38fc) 
 * Adani's 2022 takeover of NDTV media outlet is also concerning, adding it to a list of outlets such as Hindustan Times which are now biased in favour of Modi and the BJP. Critical reporting has been pushed to more informal whatsapp channels etc. amid a clearout of critics in the major Indian media institutions.
 
+### Silence on Atrocities
+Manipur Violence
+* *Prime Minister Narendra Modi had remained silent on the violence in Manipur up until the video of the 4 May 2023*
+* [20 July 2023: BBC Manipur violence: What is happening and why](https://www.bbc.co.uk/news/world-asia-india-66260730)
+
+Gujarat Riots 2002
+* Juring Modi's time as chief minister
+
 ### Deflection Tactics
 For Context: Putin's Kremlin is the master of all deflection tactics. With twisted language such as *invasion* -> "special operation" they have shown us all the benefit of documenting deflection tactics into categories so they can be more readily responded to.
 
@@ -85,3 +103,8 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
 3. Accuse countries of *harbouring terrorists*
     * For example, 2023 Sikh Activist Murder in Canada (see above)
     * Copied from the Turkish playbook in NATO Negotiations: [*Sweden will not get Turkey's nod for NATO bid unless it stops sheltering 'terrorists,'*](https://www.reuters.com/world/sweden-will-not-get-turkeys-nod-nato-bid-unless-it-stops-sheltering-terrorists-2023-07-03/)
+4. Fall Guys
+    * Modi is portrayed with a God like stature and never responsible for anything that happens (see section about about *silence on atrocities*)
+    * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect. Even critics feel pressured to use it! Rahul Gandhi was rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
+    * His image is widespread, reminiscent of Mao, on Trains Seats, Billboards, Government brochures
+    * At best when BJP is responsible for something there is a fall guy, someone lower down who takes the blame
