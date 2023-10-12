@@ -126,7 +126,7 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
     * For example, 2023 Sikh Activist Murder in Canada (see above)
     * Copied from the Turkish playbook in NATO Negotiations: [*Sweden will not get Turkey's nod for NATO bid unless it stops sheltering 'terrorists,'*](https://www.reuters.com/world/sweden-will-not-get-turkeys-nod-nato-bid-unless-it-stops-sheltering-terrorists-2023-07-03/)
 4. Fall Guys
-    * **Modi is portrayed with a God like stature** and never responsible for anything that happens (see section about about *silence on atrocities*)
+    * **Modi is portrayed with a God like stature** and never responsible for anything that happens (see section above about about [*silence on atrocities*](#silence-on-atrocities)
     * At best when BJP is responsible for something there is a fall guy, someone lower down who takes the blame
     * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect. Even critics feel pressured to use it! Rahul Gandhi was rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
     * Modi's image is widespread, reminiscent of Mao, on trains seats, billboards, government brochures
