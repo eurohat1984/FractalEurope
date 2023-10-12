@@ -4,7 +4,7 @@ Sections
 
 Yet to be added:
 * Other Political Parties
-    * Congress Party - corrupt when in office / but more tolerant religiously/politically
+    * Congress Party - corrupt when in office / but more tolerant religiously and politically
     * Aam Aadmi Party - regional Party in New Delhi and nearby
     * Regional Parties - especially in Southern states
 
