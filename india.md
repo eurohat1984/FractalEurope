@@ -109,5 +109,5 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
 4. Fall Guys
     * Modi is portrayed with a God like stature and never responsible for anything that happens (see section about about *silence on atrocities*)
     * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect. Even critics feel pressured to use it! Rahul Gandhi was rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
-    * His image is widespread, reminiscent of Mao, on Trains Seats, Billboards, Government brochures
+    * Modi's image is widespread, reminiscent of Mao, on Trains Seats, Billboards, Government brochures
     * At best when BJP is responsible for something there is a fall guy, someone lower down who takes the blame
