@@ -85,4 +85,4 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
     * For example, when the police raided NewsClick they accused it of being a Chinese propoganda outlet
 3. Accuse countries of *harbouring terrorists*
     * For example, 2023 Sikh Activist Murder in Canada (see above)
-    * Copied from the Turkish playbook in NATO Negotiations: ([*Sweden will not get Turkey's nod for NATO bid unless it stops sheltering 'terrorists,'*](https://www.reuters.com/world/sweden-will-not-get-turkeys-nod-nato-bid-unless-it-stops-sheltering-terrorists-2023-07-03/)
+    * Copied from the Turkish playbook in NATO Negotiations: [*Sweden will not get Turkey's nod for NATO bid unless it stops sheltering 'terrorists,'*](https://www.reuters.com/world/sweden-will-not-get-turkeys-nod-nato-bid-unless-it-stops-sheltering-terrorists-2023-07-03/)
