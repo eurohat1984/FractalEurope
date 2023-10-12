@@ -129,4 +129,4 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
     * **Modi is portrayed with a God like stature** and never responsible for anything that happens (see section above about about [*silence on atrocities*](#silence-on-atrocities))
     * At best when BJP is responsible for something there is a fall guy, someone lower down who takes the blame
     * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect. Even critics feel pressured to use it! Rahul Gandhi was rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
-    * Modi's image is widespread, reminiscent of Mao, on trains seats, billboards, government brochures
+    * Modi's image is widespread, reminiscent of Mao, on train seats, billboards, government brochures
