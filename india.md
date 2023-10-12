@@ -105,16 +105,16 @@ Gujarat Riots 2002
 ### Deflection Tactics
 For Context: Putin's Kremlin is the master of all deflection tactics. With twisted language such as *invasion* -> "special operation" they have shown us all the benefit of documenting deflection tactics into categories so they can be more readily responded to.
 
-1. Labelling criticism as "anti-India" and "colonial":
+1. **Labelling criticism of Modi as "anti-India"** and "colonial":
     * For example, the BJP response to the BBC's Modi Documentary
     * As if to say that Modi=India => criticism of Modi is...
-2. Acusing groups you don't like of "foreign influence"
+2. Acusing groups you don't like of **"foreign influence"**
     * For example, when the police raided NewsClick they accused it of being a Chinese propoganda outlet
 3. Accuse countries of *harbouring terrorists*
     * For example, 2023 Sikh Activist Murder in Canada (see above)
     * Copied from the Turkish playbook in NATO Negotiations: [*Sweden will not get Turkey's nod for NATO bid unless it stops sheltering 'terrorists,'*](https://www.reuters.com/world/sweden-will-not-get-turkeys-nod-nato-bid-unless-it-stops-sheltering-terrorists-2023-07-03/)
 4. Fall Guys
-    * Modi is portrayed with a God like stature and never responsible for anything that happens (see section about about *silence on atrocities*)
+    * **Modi is portrayed with a God like stature** and never responsible for anything that happens (see section about about *silence on atrocities*)
     * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect. Even critics feel pressured to use it! Rahul Gandhi was rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
     * Modi's image is widespread, reminiscent of Mao, on Trains Seats, Billboards, Government brochures
     * At best when BJP is responsible for something there is a fall guy, someone lower down who takes the blame
