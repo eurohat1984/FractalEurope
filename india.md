@@ -91,6 +91,7 @@ Context
 * It's distinctly different from corruption in the UK, France, Switzerland where overt corruption is rare day-to-day and there is a there is a fear of being called out (by the media / reported to superiors / whistleblowing )
 
 2023-03 Adani Allegations
+* In January 2023, Hindenburg Research published the findings of a two-year investigation alleging that Adani had engaged in market manipulation and accounting malpractices. Link: [Wikipedia: Adani Group](https://en.wikipedia.org/wiki/Adani_Group#Stock_manipulation_and_accounting_fraud_allegations)
 * *Adani is widely regarded as being close to Prime Minister Narendra Modi and has publicly aligned his business with the government’s growth agenda.*
 * [Financial Times 2023-03-02](https://www.ft.com/content/578df2dc-71d7-4ca3-aaff-7db4d52a38fc) 
 * Adani's 2022 takeover of NDTV media outlet is also concerning, adding it to a list of outlets such as Hindustan Times which are now biased in favour of Modi and the BJP. Critical reporting has been pushed to more informal whatsapp channels etc. amid a clearout of critics in the major Indian media institutions.
