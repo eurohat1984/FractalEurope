@@ -77,9 +77,10 @@ See my blog on the European Union for views on the bullying of smaller political
 * Canadian PM Trudeau said that there is a potential link with the government of India based on his security sources
 * Rather than cooperating with an investigation India retaliated and stopped issuing visas, expelled diplomats, retaliated by saying Canada shouldn't have more diplomats in India than India has in Canada etc.
 * India reiterated that it is concerned about Khalistani extremists in Canada (this doesn't exactly help their case that they want people to believe they are not involved)
-* [Financial Times: Ottawa attempts to mend rift with New Delhi over murder of Sikh separatist](https://www.ft.com/content/146b4e53-07aa-4cc0-9ed7-064532fbb39c)
-* [Hindustan Times: Trudeau 'Complains' Against India During Talks With World Leaders](https://www.youtube.com/watch?v=BZouC4QiCHE). Interesting how Hindustan Times chooses to portray this... 
-* [Nijjar Wikipedia Page](https://en.wikipedia.org/wiki/Hardeep_Singh_Nijjar#Allegation_of_Indian_responsibility)
+* Links:
+    * [Financial Times: Ottawa attempts to mend rift with New Delhi over murder of Sikh separatist](https://www.ft.com/content/146b4e53-07aa-4cc0-9ed7-064532fbb39c)
+    * [Hindustan Times: Trudeau 'Complains' Against India During Talks With World Leaders](https://www.youtube.com/watch?v=BZouC4QiCHE). Interesting how Hindustan Times chooses to portray this... 
+    * [Nijjar Wikipedia Page](https://en.wikipedia.org/wiki/Hardeep_Singh_Nijjar#Allegation_of_Indian_responsibility)
 * Interestingly a bunch of twitter memes went around Indian media outlets mocking Trudeau. Various fictional stories that end in *'We also spoke about India'*. The lack of a good punch line makes me suspect this is pushed by the Modi/BJP IT army moreso than naturally shared.
 
 #### Corruption
