@@ -6,7 +6,7 @@ Yet to be added:
 * Other Political Parties
     * Congress Party - corrupt when in office / but more tolerant religiously and politically
     * Aam Aadmi Party - regional Party in New Delhi and nearby
-    * Regional Parties - especially in Southern states
+    * Regional Parties - especially in southern states
 
 ## Narendra Modi and the BJP Party
 Sub-Sections:
@@ -28,7 +28,8 @@ Successes of Modi and the BJP government:
     * Government payment systems such as [UPI Pay](https://en.wikipedia.org/wiki/Unified_Payments_Interface), which cuts out the middle man in bank transactions
     * Private technology such as tech giants and start ups
 
-### Suppression of Journalists
+### Criticism
+#### Suppression of Journalists
 About suppression, threats, violance, intimidation etc. against journalists critical of the government
 
 2023-10 Raid on Government Critics
@@ -51,7 +52,7 @@ About suppression, threats, violance, intimidation etc. against journalists crit
 Suppression of Kashmiri Media
 * [2023-03 New York Times](https://www.nytimes.com/2023/03/08/opinion/india-kashmir-modi-media-censorship.html)
 
-### Political Suppression
+#### Political Suppression
 Disqualification of Opposition Leader from Parliament
 * *Indian court orders Rahul Gandhi to two years in jail for Modi comment*
 * Opposition party leader Rahul Gandhi was convicted of *defaming all people with the Modi surname*
@@ -61,16 +62,16 @@ Disqualification of Opposition Leader from Parliament
    * [Reuters Article 2023-03-23](https://www.reuters.com/world/india/indian-court-convicts-gandhi-defamation-gives-two-year-sentence-2023-03-23/)
    * [Wikipedia: Disqualificatino of Rahul Gandhi](https://en.wikipedia.org/wiki/Disqualification_of_Rahul_Gandhi)
 
-### Regional Suppression
+#### Regional Suppression
 2019 Revokation of Kashmiri Autonomy
 * *In 2019, Mr. Modi’s government abruptly revoked Kashmir’s autonomous status without public input from the territory’s people, sent in thousands of troops and shut down internet access.*
 * [Wiki: Revocation of Special Status](https://en.wikipedia.org/wiki/Revocation_of_the_special_status_of_Jammu_and_Kashmir)
 * [Wiki: Kashmir Lockdown](https://en.wikipedia.org/wiki/2019%E2%80%932021_Jammu_and_Kashmir_lockdown)
 
-### Internet Blackouts
+#### Internet Blackouts
 * [2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
 
-### International Bullying
+#### International Bullying
 See my blog on the European Union for views on the bullying of smaller political groups by larger ones.
 
 2023 Sikh Activist Murder in Canada
@@ -82,7 +83,7 @@ See my blog on the European Union for views on the bullying of smaller political
 * [Nijjar Wikipedia Page](https://en.wikipedia.org/wiki/Hardeep_Singh_Nijjar#Allegation_of_Indian_responsibility)
 * Interestingly a bunch of twitter memes went around indian media outlets mocking Trudeau. Various fictional stories that end in *'We also spoke about India'*. The lack of a good punch line makes me suspect this is pushed by the Modi/BJP IT army moreso than naturally shared.
 
-### Corruption
+#### Corruption
 Context
 * BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
 * India suffers widely from corruption and this will be the case no matter who is in government, at least initially (legal system, police, ...)
@@ -94,7 +95,7 @@ Context
 * [Financial Times 2023-03-02](https://www.ft.com/content/578df2dc-71d7-4ca3-aaff-7db4d52a38fc) 
 * Adani's 2022 takeover of NDTV media outlet is also concerning, adding it to a list of outlets such as Hindustan Times which are now biased in favour of Modi and the BJP. Critical reporting has been pushed to more informal whatsapp channels etc. amid a clearout of critics in the major Indian media institutions.
 
-### Silence on Atrocities
+#### Silence on Atrocities
 Manipur Violence
 * *Prime Minister Narendra Modi had remained silent on the violence in Manipur up until the video of the 4 May 2023*
 * [20 July 2023: BBC Manipur violence: What is happening and why](https://www.bbc.co.uk/news/world-asia-india-66260730)
