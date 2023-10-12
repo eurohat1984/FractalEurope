@@ -47,6 +47,9 @@ About suppression, threats, violance, intimidation etc. against journalists crit
 * 161 out of 180 countries 
 * I know Indians like to get full marks but approaching 180/180 is a bad sign under this metric!
 
+Suppression of Kashmiri Media
+* [2023-03 New York Times](https://www.nytimes.com/2023/03/08/opinion/india-kashmir-modi-media-censorship.html)
+
 ### Political Suppression
 Disqualification of Opposition Leader from Parliament
 * *Indian court orders Rahul Gandhi to two years in jail for Modi comment*
