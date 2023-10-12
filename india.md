@@ -12,11 +12,10 @@ Sections:
 
 ### Successes
 Successes of Modi and the BJP government:
-* BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
-* BJP has presided over successes in technology
-    * Government payment systems such as UPI Pay
-    * Private technology such as tech giants
-    * Start ups
+* Initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
+* Presided over successes in technology
+    * Government payment systems such as [UPI Pay](https://en.wikipedia.org/wiki/Unified_Payments_Interface), which cuts out the middle man in bank transactions
+    * Private technology such as tech giants and start ups
 
 ### Suppression of Journalists
 About suppression, threats, violance, intimidation etc. against journalists critical of the government
