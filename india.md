@@ -32,11 +32,10 @@ Successes of Modi and the BJP government:
 #### Suppression of Journalists
 About suppression, threats, violance, intimidation etc. against journalists critical of the government
 
-2023-10 Raid on Government Critics
-* [NewsClick Raid of Organisation and Journalists](https://www.bbc.co.uk/news/world-asia-india-66909370)
-    * Initial BBC Headline: `NewsClick: Raid on India news site over China funding claims`
-    * Government critics arrested
-    * *A case was reportedly registered against the website under UAPA, a draconian anti-terror law that makes it nearly impossible to get bail.*
+2023-10 NewsClick Raid on Government Critics:
+* [BBC Article](https://www.bbc.co.uk/news/world-asia-india-66909370): `NewsClick: India police arrest journalists over China funding claims`
+* Government critics arrested
+* *A case was reportedly registered against the website under UAPA, a draconian anti-terror law that makes it nearly impossible to get bail.*
 
 2023-02 Raid on BBC Offices in response to Modi Documentary
 * *What is the BBC Modi documentary and why is it so controversial?*
