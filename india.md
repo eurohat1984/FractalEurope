@@ -99,7 +99,7 @@ Context
 #### Silence on Atrocities
 Manipur Violence
 * *Prime Minister Narendra Modi had remained silent on the violence in Manipur up until the video of the 4 May 2023*
-* [20 July 2023: BBC Manipur violence: What is happening and why](https://www.bbc.co.uk/news/world-asia-india-66260730)
+* [20 July 2023  BBC Article: Manipur violence: What is happening and why](https://www.bbc.co.uk/news/world-asia-india-66260730)
 
 Gujarat Riots 2002
 * Juring Modi's time as chief minister
