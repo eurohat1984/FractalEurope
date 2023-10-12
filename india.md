@@ -14,6 +14,7 @@ Sub-Sections:
 * Criticism
     * [Suppression of Journalists](#suppression-of-journalists)
     * [Political Suppression](#political-suppression)
+    * [Regional Suppression](#regional-suppression)
     * [Internet Blackouts](#internet-blackouts)
     * [International Bullying](#international-bullying)
     * [Corruption](#corruption)
@@ -59,6 +60,12 @@ Disqualification of Opposition Leader from Parliament
 * Links:
    * [Reuters Article 2023-03-23](https://www.reuters.com/world/india/indian-court-convicts-gandhi-defamation-gives-two-year-sentence-2023-03-23/)
    * [Wikipedia: Disqualificatino of Rahul Gandhi](https://en.wikipedia.org/wiki/Disqualification_of_Rahul_Gandhi)
+
+### Regional Suppression
+2019 Revokation of Kashmiri Autonomy
+* *In 2019, Mr. Modi’s government abruptly revoked Kashmir’s autonomous status without public input from the territory’s people, sent in thousands of troops and shut down internet access.*
+* [Wiki: Revocation of Special Status](https://en.wikipedia.org/wiki/Revocation_of_the_special_status_of_Jammu_and_Kashmir)
+* [Wiki: Kashmir Lockdown](https://en.wikipedia.org/wiki/2019%E2%80%932021_Jammu_and_Kashmir_lockdown)
 
 ### Internet Blackouts
 * [2023-09 Guardian Article: How india became the world leader in internet blackouts](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
