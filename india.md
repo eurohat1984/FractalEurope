@@ -84,9 +84,9 @@ See my blog on the European Union for views on the bullying of smaller political
 * Interestingly a bunch of twitter memes went around Indian media outlets mocking Trudeau. Various fictional stories that end in *'We also spoke about India'*. The lack of a good punch line makes me suspect this is pushed by the Modi/BJP IT army moreso than naturally shared.
 
 2023 BBC Documentary and British PM Sunak
-* With so much of his family and wealth tied to India PM Sunak is effectively silenced from criticising the Modi Government (What if they find Tax allegations like they did with the BBC)
+* With so much of his family and wealth tied to India, PM Sunak is in a weak position to criticise the Modi Government (What if they find tax allegations like they did with the BBC)
 * Sunak is limited to the meek statements like *"we do not tolerate persecution anywhere"*
-* And depending how you read between the lines he tries to console Modi with vagueries such as *I am not sure that I agree at all with the characterisation* [of Modi]
+* And depending how you read between the lines he tries to console Modi with vagueries such as *I am not sure that I agree at all with the characterisation [of Modi]*.
 
 ### Corruption
 Context
@@ -102,7 +102,7 @@ Context
 * Adani's 2022 takeover of NDTV media outlet is also concerning, adding it to a list of outlets such as Hindustan Times which are now biased in favour of Modi and the BJP. Critical reporting has been pushed to more informal whatsapp channels etc. amid a clearout of critics in the major Indian media institutions.
 
 ### Silence on Atrocities
-Manipur Violence
+Manipur Violence 2023
 * *Prime Minister Narendra Modi had remained silent on the violence in Manipur up until the video of the 4 May 2023*
 * [20 July 2023  BBC Article](https://www.bbc.co.uk/news/world-asia-india-66260730): Manipur violence: What is happening and why
 
