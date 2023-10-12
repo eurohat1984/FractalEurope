@@ -30,7 +30,8 @@ Successes of Modi and the BJP government:
 * Confidence on the world stage
     * Modi has a greater an air of confidence on the world stage then predecessors
     * He offers a coherent and uplifting vision of *India*, much like how the national Cricket team does.
-    * I caveat this with the concern that it is a Hindu centric vision. Also a *confidence* reminiscent of Putin's Russia in earlier days, see [Putin's Big Praise For 'Mighty Indian Nation' Under PM Modi](https://www.youtube.com/watch?v=6Ai_lAtDQrw) (October 2023)
+    * I caveat this with the concern that it is a Hindu centric, uniformist vision.
+    * Also a *confidence* reminiscent of Putin's Russia in earlier days, see [Putin's Big Praise For 'Mighty Indian Nation' Under PM Modi](https://www.youtube.com/watch?v=6Ai_lAtDQrw) (October 2023)
 
 ## Criticism
 ### Political Suppression
