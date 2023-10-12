@@ -68,7 +68,7 @@ About suppression, threats, violance, intimidation etc. against journalists crit
 * [Wiki: Kashmir Lockdown](https://en.wikipedia.org/wiki/2019%E2%80%932021_Jammu_and_Kashmir_lockdown)
 
 ### Internet Blackouts
-* [2023-09 Guardian Article: **How India became the world leader in internet blackouts**](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts)
+* [2023-09 Guardian Article:](https://www.theguardian.com/world/2023/sep/25/a-tool-of-political-control-how-india-became-the-world-leader-in-internet-blackouts): **How India became the world leader in internet blackouts**
 
 ### International Bullying
 See my blog on the European Union for views on the bullying of smaller political groups by larger ones.
