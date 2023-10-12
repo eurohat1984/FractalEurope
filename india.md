@@ -79,7 +79,10 @@ Context
 For Context: Putin's Kremlin is the master of all deflection tactics. With twisted language such as *invasion* -> "special operation" they have shown us all the benefit of documenting deflection tactics into categories so they can be more readily responded to.
 
 1. Labelling criticism as "anti-India" and "colonial":
-  * For example, the BJP response to the BBC's Modi Documentary
-  * As if to say that Modi=India
-2. Acusing people you don't like of "foreign influence"
-  * For example, when the police raided NewsClick they accused it of being a Chinese propoganda outlet
+    * For example, the BJP response to the BBC's Modi Documentary
+    * As if to say that Modi=India => criticism of Modi is...
+2. Acusing groups you don't like of "foreign influence"
+    * For example, when the police raided NewsClick they accused it of being a Chinese propoganda outlet
+3. Accuse countries of *harbouring terrorists*
+    * For example, 2023 Sikh Activist Murder in Canada (see above)
+    * Copied from the Turkish playbook in NATO Negotiations: ([*Sweden will not get Turkey's nod for NATO bid unless it stops sheltering 'terrorists,'*](https://www.reuters.com/world/sweden-will-not-get-turkeys-nod-nato-bid-unless-it-stops-sheltering-terrorists-2023-07-03/)
