@@ -1,6 +1,7 @@
 # Indian Politics
 Sections
 * [Narendra Modi and the BJP Party](#narendra-modi-and-the-bjp-party)
+* [Conclusions](#conclusions)
 
 Yet to be added:
 * Other Political Parties
@@ -130,3 +131,8 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
     * At best when BJP is responsible for something there is a fall guy, someone lower down who takes the blame
     * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect. Even critics feel pressured to use it! Rahul Gandhi was rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
     * Modi's image is widespread, reminiscent of Mao, on train seats, billboards, government brochures
+
+# Conclusions
+**What India needs most is regular changes of governing party.**
+* This prevents one party from entrenching itself (media control, judicial control)
+* Even if the two major parties both have problems, a regular changeover can help prevent and overturn concerning developments, even if just to overturn them in the favour of the other party.
