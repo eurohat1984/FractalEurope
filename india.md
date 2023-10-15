@@ -133,6 +133,7 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
     * Modi's image is widespread, reminiscent of Mao, on train seats, billboards, government brochures
 
 # Conclusions
-**What India needs most is regular changes of the governing party**
+**India needs regular changes of the governing party**
 * This prevents one party from entrenching itself (media control, judicial control)
 * Even if the two major parties both have problems, a regular changeover can help prevent and overturn concerning developments, even if just to overturn them in the favour of the other party
+* This need could be relaxed if the governing party starts acting responsibly. Read freer media, stronger institutions and separation of powers (e.g. judicial, and also for the central bank)
