@@ -1,7 +1,7 @@
 # Indian Politics
 Sections
 * [Narendra Modi and the BJP Party](#narendra-modi-and-the-bjp-party)
-* [Conclusions](#conclusions)
+* [Conclusions](#conclusions): *What India needs **now***
 
 Yet to be added:
 * Other Political Parties
