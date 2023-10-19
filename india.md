@@ -133,8 +133,16 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
     * Modi's image is widespread, reminiscent of Mao, on train seats, billboards, government brochures
 
 # Conclusions
-**India needs regular changes of the governing party**
+1. **India needs regular changes of the governing party**
 * This limits how much one party from entrench itself
 * I emphasise this as being particularly important because of the status of government suppression in media and the judiciary
 * Even if the two major parties both have problems, a regular changeover can help prevent and overturn concerning developments, even if just to overturn them in the favour of the other party
 * This need could be relaxed if the governing party starts acting responsibly. Read freer media, stronger institutions and separation of powers (e.g. judicial, and also for the central bank)
+
+2. **Decentralisation of Power**
+* Deal with things as locally as possible (Switzerland style)
+* This limits the power of any one person or group at the top
+* It also helps to allow for local diversity of preferences
+
+3. **Term Limits**
+* Same as point 1) but this can be hardcoded in the rules
