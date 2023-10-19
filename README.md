@@ -9,6 +9,7 @@ This repository is a collection of notes about the E.U. and ideas for improving 
 
 Internal Improvements:
 * I think the E.U. needs more local [Democracy](https://github.com/eurohat1984/eurohat1984/blob/main/democracy.md) and less [Bureaucracy](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md).
+* The E.U. should focus on [*core competencies*](./core_competencies.md) and push back as much as possible to more local decision makers (countries / local government). Switzerland does this really well.
 
 External Improvements:
 * Deal better with [Superpowers](https://github.com/eurohat1984/eurohat1984/blob/main/foreign-relations.md#relations-with-superpowers) (e.g. 2022 Russia-Ukraine crisis ).
