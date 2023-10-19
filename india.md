@@ -1,7 +1,7 @@
 # Indian Politics
 Sections
 * [Narendra Modi and the BJP Party](#narendra-modi-and-the-bjp-party)
-* [Conclusions](#conclusions): *What India needs **now***
+* [Recommendations](#Recommendations): *What India needs **now***
 
 Yet to be added:
 * Other Political Parties
@@ -132,17 +132,17 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
     * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect. Even critics feel pressured to use it! Rahul Gandhi was rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
     * Modi's image is widespread, reminiscent of Mao, on train seats, billboards, government brochures
 
-# Conclusions
+# Recommendations
 1. **India needs regular changes of the governing party**
-* This limits how much one party from entrench itself
-* I emphasise this as being particularly important because of the status of government suppression in media and the judiciary
-* Even if the two major parties both have problems, a regular changeover can help prevent and overturn concerning developments, even if just to overturn them in the favour of the other party
-* This need could be relaxed if the governing party starts acting responsibly. Read freer media, stronger institutions and separation of powers (e.g. judicial, and also for the central bank)
+   * This limits how much one party from entrench itself
+   * I emphasise this as being particularly important because of the status of government suppression in media and the judiciary
+   * Even if the two major parties both have problems, a regular changeover can help prevent and overturn concerning developments, even if just to overturn them in the favour of the other party
+   * This need could be relaxed if the governing party starts acting responsibly. Read freer media, stronger institutions and separation of powers (e.g. judicial, and also for the central bank)
 
 2. **Decentralisation of Power**
-* Deal with things as locally as possible (Switzerland style)
-* This limits the power of any one person or group at the top
-* It also helps to allow for local diversity of preferences
+   * Deal with things as locally as possible (Switzerland style)
+   * This limits the power of any one person or group at the top
+   * It also allows for local diversity of preferences
 
 3. **Term Limits**
-* Same as point 1) but this can be hardcoded in the rules
+   * Same as point 1) but this can be hardcoded in the rules
