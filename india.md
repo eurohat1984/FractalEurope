@@ -133,7 +133,7 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
     * Modi's image is widespread, reminiscent of Mao, on train seats, billboards, government brochures
 
 # Recommendations
-1. **India needs regular changes of the governing party**
+1. **Regular changes of the governing party**
    * This limits how much one party from entrench itself
    * I emphasise this as being particularly important because of the status of government suppression in media and the judiciary
    * Even if the two major parties both have problems, a regular changeover can help prevent and overturn concerning developments, even if just to overturn them in the favour of the other party
