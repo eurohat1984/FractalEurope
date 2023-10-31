@@ -59,3 +59,5 @@ Other Links:
         * [RTÉ News Articles](https://www.rte.ie/author/822154-tony-connelly/)
         * [Tony Connelly Twitter](https://twitter.com/tconnellyRTE)
         * [50 Years of Irish membership](https://www.rte.ie/news/2023/0101/1344318-ireland-at-50/)
+* Blogs
+    * Italy Blog: [Horse of a Different Colour](https://italyhorseofadifferentcolour.blogspot.com/)
