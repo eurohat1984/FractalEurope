@@ -7,7 +7,7 @@ Yet to be added:
 * Other Political Parties
     * Congress Party
         * Corrupt when in office / but more tolerant religiously and politically
-        * For contrast the BJP is both corrupt and cunning (see [deflection tactics](deflection-tactics) section below)    
+        * For contrast the **BJP is both corrupt *and* cunning** (see [deflection tactics](deflection-tactics) section below)    
     * Aam Aadmi Party - regional Party in New Delhi and nearby
     * Regional Parties - especially in southern states
 * For roughwork notes see: [`india_roughwork.md`](./india_roughwork.md)
