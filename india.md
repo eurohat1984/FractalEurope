@@ -1,5 +1,5 @@
 # Indian Politics
-Sections
+Sections:
 * [Narendra Modi and the BJP Party](#narendra-modi-and-the-bjp-party)
 * [Recommendations](#Recommendations): *What India needs **now***
 
