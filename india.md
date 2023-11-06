@@ -19,7 +19,7 @@ Sub-Sections:
 * [Successes](#successes)
 * Criticism
     * [**Suppression of Journalists**](#suppression-of-journalists)
-    * [Political Suppression](#political-suppression)
+    * [**Political Suppression**](#political-suppression)
     * [Regional Suppression](#regional-suppression)
     * [Internet Blackouts](#internet-blackouts)
     * [International Bullying](#international-bullying)
