@@ -6,11 +6,11 @@ Modi's image is widespread
 * But even in Kerela for example Modi is advertised along with various government initiatives
 * *Caveat*: This sort of imagery is common in India be it with Yoga teachers, Chief Ministers, Bollywood stars, Cricket Stars and even A grade school students (in advertisements for schools). However even allowing for that the Modi imagery is over the top in my opinion. A waste of public funds and a failure to appreciate that India is a collective that should succeed independent of any one person.
 
-2023-11-01 State Sponsored Phone Hacking
+2023-11-01 **State Sponsored Phone Hacking**
 * Headline: *Apple alert: India opposition says government tried to hack phones*
 * [Link](https://www.bbc.com/news/world-asia-india-67269978)
 
-2023-11-02 Anti-Corruption Activist Questioned in Corruption Case
+2023-11-02 **Anti-Corruption Activist Questioned** in Corruption Case
 * Headline: *Arvind Kejriwal: Delhi chief minister skips questioning in corruption case*
 * Arvind Kejriwal represents from the *Aam Aadmi Party* (AAP)
 * [Link](https://www.bbc.com/news/world-asia-india-67283562)
