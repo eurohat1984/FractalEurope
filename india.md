@@ -129,8 +129,14 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
 4. Fall Guys
     * **Modi is portrayed with a God like stature** and never responsible for anything that happens (see section above about about [*silence on atrocities*](#silence-on-atrocities))
     * At best when BJP is responsible for something there is a fall guy, someone lower down who takes the blame
-    * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect. Even critics feel pressured to use it! Rahul Gandhi was rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
-    * Modi's image is widespread, reminiscent of Mao, on train seats, billboards, government brochures
+  
+Other
+* Taking advantage of cultural respect
+    * Indian culture tends to extend respect to certain people such as Elders, Spiritual Leaders and Superiors.
+    * At times this can be overboard and be used to silence comment and criticism
+    * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect.
+    * Critics feel pressured to use it! (Mainly applies to political critics as of 2023 because the press is no longer free.)
+    * Opposition leader Rahul Gandhi is rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
 
 # Recommendations
 1. **Regular changes of the governing party**
