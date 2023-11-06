@@ -86,9 +86,9 @@ About suppression, threats, violance, intimidation etc. against journalists crit
 See my blog on the European Union for views on the bullying of smaller political groups by larger ones.
 
 2023 Sikh Activist Murder in Canada
-* Canadian PM Trudeau said that there is a potential link with the government of India based on his security sources
-* Rather than cooperating with an investigation India retaliated and stopped issuing visas, expelled diplomats, retaliated by saying Canada shouldn't have more diplomats in India than India has in Canada etc.
-* India reiterated that it is concerned about Khalistani extremists in Canada (this doesn't exactly help their case that they are uninvolved)
+* Canadian PM Trudeau informed his parliament that there is a potential link with the government of India based on his security sources
+* **Rather than cooperating with an investigation India retaliated**. For example India stopped issuing visas to Canadians, it expelled diplomats. It raised further issues such as that Canada shouldn't have more diplomats in India than India has in Canada etc.
+* India reiterated that it is concerned about Khalistani extremists in Canada (**this doesn't exactly help their case that they are uninvolved**). India has for years been making requests to the Canadian government about what it considers extremist elements in Canada.
 * Links:
     * [Financial Times: Ottawa attempts to mend rift with New Delhi over murder of Sikh separatist](https://www.ft.com/content/146b4e53-07aa-4cc0-9ed7-064532fbb39c)
     * [Hindustan Times: Trudeau 'Complains' Against India During Talks With World Leaders](https://www.youtube.com/watch?v=BZouC4QiCHE). Interesting how Hindustan Times chooses to portray this... 
