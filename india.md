@@ -18,8 +18,8 @@ Roughwork Notes
 Sub-Sections:
 * [Successes](#successes)
 * Criticism
-    * [Political Suppression](#political-suppression)
     * [Suppression of Journalists](#suppression-of-journalists)
+    * [Political Suppression](#political-suppression)
     * [Regional Suppression](#regional-suppression)
     * [Internet Blackouts](#internet-blackouts)
     * [International Bullying](#international-bullying)
@@ -40,18 +40,8 @@ Successes of Modi and the BJP government:
 *\*\* I caveat this with the concern that it is a Hindu centric, uniformist vision. It is also a *confidence* reminiscent of Putin's Russia in earlier days. See [Putin's Big Praise For 'Mighty Indian Nation' Under PM Modi](https://www.youtube.com/watch?v=6Ai_lAtDQrw) (October 2023)*
 
 ## Criticism
-### Political Suppression
-**Disqualification of Opposition Leader from Parliament**
-* *Indian court orders Rahul Gandhi to two years in jail for Modi comment*
-* Opposition party leader Rahul Gandhi was convicted of *defaming all people with the Modi surname*
-* The conviction disqualified Gandhi as a member of parliament
-* As of August 2023 he has the conviction stayed by the Supreme Court of India pending appeal
-* Links:
-   * [Reuters Article 2023-03-23](https://www.reuters.com/world/india/indian-court-convicts-gandhi-defamation-gives-two-year-sentence-2023-03-23/)
-   * [Wikipedia: Disqualificatino of Rahul Gandhi](https://en.wikipedia.org/wiki/Disqualification_of_Rahul_Gandhi)
-
 ### Suppression of Journalists
-About suppression, threats, violance, intimidation etc. against journalists critical of the government
+About suppression, threats, violance, intimidation etc. against journalists critical of the government. **This is one of the most clear cut criticisms of Modi and the BJP.** As of 2023 all the main media organisations have become pro Modi.
 
 2023-10 **NewsClick Raid** on Government Critics:
 * [BBC Article](https://www.bbc.co.uk/news/world-asia-india-66909370): `NewsClick: India police arrest journalists over China funding claims`
@@ -71,6 +61,16 @@ About suppression, threats, violance, intimidation etc. against journalists crit
 
 **Suppression of Kashmiri Media**
 * [2023-03 New York Times](https://www.nytimes.com/2023/03/08/opinion/india-kashmir-modi-media-censorship.html)
+
+### Political Suppression
+**Disqualification of Opposition Leader from Parliament**
+* *Indian court orders Rahul Gandhi to two years in jail for Modi comment*
+* Opposition party leader Rahul Gandhi was convicted of *defaming all people with the Modi surname*
+* The conviction disqualified Gandhi as a member of parliament
+* As of August 2023 he has the conviction stayed by the Supreme Court of India pending appeal
+* Links:
+   * [Reuters Article 2023-03-23](https://www.reuters.com/world/india/indian-court-convicts-gandhi-defamation-gives-two-year-sentence-2023-03-23/)
+   * [Wikipedia: Disqualificatino of Rahul Gandhi](https://en.wikipedia.org/wiki/Disqualification_of_Rahul_Gandhi)
 
 ### Regional Suppression
 2019 Revocation of Kashmiri Autonomy
