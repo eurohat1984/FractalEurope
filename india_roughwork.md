@@ -2,8 +2,7 @@ Modi's image is widespread
 * reminiscent of Mao, on train seats, billboards, government brochures
 * More prevelant in northern India such as in Delhi
 * But even in Kerela for example Modi is advertised along with various government initiatives
-* *Caveat*: This sort of imagery is common in India be it with Yoga teachers
-
+* *Caveat*: This sort of imagery is common in India be it with Yoga teachers, Chief Ministers, Bollywood stars, Cricket Stars and even A grade school students (in advertisements for schools). However even allowing for that the Modi imagery is over the top in my opinion. A waste of public funds and a failure to appreciate that India is a collective that should succeed independent of any one person.
 
 2023-11-01 State Sponsored Phone Hacking
 * Headline: *Apple alert: India opposition says government tried to hack phones*
