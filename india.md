@@ -3,14 +3,16 @@ Sections:
 * [Narendra Modi and the BJP Party](#narendra-modi-and-the-bjp-party)
 * [Recommendations](#Recommendations): *What India needs **now***
 
-Yet to be added:
-* Other Political Parties
-    * Congress Party
-        * Corrupt when in office / but more tolerant religiously and politically
-        * By contrast, the **BJP is both corrupt *and* cunning** (see [deflection tactics](deflection-tactics) section below)    
-    * Aam Aadmi Party - regional Party in New Delhi and nearby
-    * Regional Parties - especially in southern states
-* For roughwork notes see: [`india_roughwork.md`](./india_roughwork.md)
+Other Political Parties:
+* Congress Party
+     * Corrupt when in office
+     * More tolerant religiously and politically
+     * By contrast, the **BJP is both corrupt *and* cunning** (see [deflection tactics](deflection-tactics) section below)
+* Aam Aadmi Party - regional Party in New Delhi and nearby
+* Regional Parties - especially in southern states
+
+Roughwork Notes
+* See [`india_roughwork.md`](./india_roughwork.md)
 
 # Narendra Modi and the BJP Party
 Sub-Sections:
