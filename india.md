@@ -41,7 +41,9 @@ Successes of Modi and the BJP government:
 
 ## Criticism
 ### Suppression of Journalists
-About suppression, threats, violance, intimidation etc. against journalists critical of the government. **This is one of the most clear cut criticisms of Modi and the BJP.** As of 2023 all the main media organisations have become pro Modi. For example, check out the Hindustan Times on Youtube. The once balanced publication has become a sensationalist pro-government outlet. 
+About suppression, threats, violance, intimidation etc. against journalists critical of the government. 
+
+**This is one of the most clear cut criticisms of Modi and the BJP.** As of 2023 all the main media organisations have become pro Modi. For example, check out the Hindustan Times on Youtube. The once balanced publication has become a sensationalist pro-government outlet. 
 
 2023-10 **NewsClick Raid** on Government Critics:
 * [BBC Article](https://www.bbc.co.uk/news/world-asia-india-66909370): `NewsClick: India police arrest journalists over China funding claims`
