@@ -18,7 +18,7 @@ Roughwork Notes
 Sub-Sections:
 * [Successes](#successes)
 * Criticism
-    * [Suppression of Journalists](#suppression-of-journalists)
+    * [**Suppression of Journalists**](#suppression-of-journalists)
     * [Political Suppression](#political-suppression)
     * [Regional Suppression](#regional-suppression)
     * [Internet Blackouts](#internet-blackouts)
