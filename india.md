@@ -140,7 +140,7 @@ For Context: Putin's Kremlin is the master of all deflection tactics. With twist
 Other
 * Taking advantage of cultural respect
     * Indian culture tends to extend respect to certain people such as Elders, Spiritual Leaders and Superiors.
-    * At times this can be overboard and be used to silence comment and criticism (For example, in Indian courts senior lawyers are listened to more and junior ones get dismissed more abruptly. If you have more money, you can get a better result.)
+    * At times this can be overboard and be used to silence comment and criticism (For example, in Indian courts senior lawyers are listened to more and junior ones get dismissed more abruptly.)
     * Omitting use of the the *Ji* (जी) honorific (as in *Modi Ji*) has become a sign in itself of disrespect.
     * Critics feel pressured to use it! (Mainly applies to political critics as of 2023 because the press is no longer free.)
     * Opposition leader Rahul Gandhi is rarely referred to as *Gandhi Ji* (that title is reserved for his namesake, Mahatma Gandhi).
