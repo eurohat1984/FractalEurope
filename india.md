@@ -10,7 +10,7 @@ Yet to be added:
         * For contrast the BJP is both corrupt and cunning (see [deflection tactics](deflection-tactics) section below)    
     * Aam Aadmi Party - regional Party in New Delhi and nearby
     * Regional Parties - especially in southern states
-* Roughwork Notes: [Here](./india_roughwork.md)
+* Roughwork Notes: See [`india_roughwork.md`](./india_roughwork.md)
 
 # Narendra Modi and the BJP Party
 Sub-Sections:
