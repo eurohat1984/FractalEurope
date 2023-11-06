@@ -1,5 +1,5 @@
 # Rolling Roughwork Notes
-### Concerning Stories
+### Concerning Events
 Modi's image is widespread
 * reminiscent of Mao, on train seats, billboards, government brochures
 * More prevelant in northern India such as in Delhi
@@ -15,7 +15,7 @@ Modi's image is widespread
 * Arvind Kejriwal represents from the *Aam Aadmi Party* (AAP)
 * [Link](https://www.bbc.com/news/world-asia-india-67283562)
 
-### Neutral Stories
+### Neutral Events
 Stories that I don't consider as good or bad but are interesting for context.
 
 2023-09 Renaming India to Bharat
