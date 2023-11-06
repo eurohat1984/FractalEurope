@@ -7,7 +7,7 @@ Yet to be added:
 * Other Political Parties
     * Congress Party
         * Corrupt when in office / but more tolerant religiously and politically
-        * For contrast the BJP is both corrupt and cunning which is the worst kind because it is harder to tackle.
+        * For contrast the BJP is both corrupt and cunning which is the worse because this is harder to tackle.
     * Aam Aadmi Party - regional Party in New Delhi and nearby
     * Regional Parties - especially in southern states
 * Roughwork Notes: [Here](./india_roughwork.md)
