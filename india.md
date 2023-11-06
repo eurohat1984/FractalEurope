@@ -8,6 +8,7 @@ Yet to be added:
     * Congress Party - corrupt when in office / but more tolerant religiously and politically
     * Aam Aadmi Party - regional Party in New Delhi and nearby
     * Regional Parties - especially in southern states
+* Roughwork Notes: [Here](./india_roughwork.md)
 
 # Narendra Modi and the BJP Party
 Sub-Sections:
