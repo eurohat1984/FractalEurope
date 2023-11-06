@@ -7,7 +7,6 @@ Other Political Parties:
 * Congress Party
      * Corrupt when in office
      * More tolerant religiously and politically
-     * By contrast, the **BJP is both corrupt *and* cunning** (see [deflection tactics](deflection-tactics) section below)
 * Aam Aadmi Party - regional Party in New Delhi and nearby
 * Regional Parties - especially in southern states
 
@@ -103,10 +102,11 @@ See my blog on the European Union for views on the bullying of smaller political
 
 ### Corruption
 Context
-* BJP was initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
 * India suffers widely from corruption and this will be the case no matter who is in government, at least initially (legal system, police, ...)
 * One can presume that any successful politician and business person has "navigated" this to some greater or lesser extent
 * It's distinctly different from corruption in the UK, France, Switzerland where overt corruption is rare day-to-day and there is a there is a fear of being called out (by the media / reported to superiors / whistleblowing )
+* In contrast with the Congress party, the **BJP is both corrupt *and* cunning** instead of just corrupt (see [deflection tactics](deflection-tactics) section below)
+* Ironically the BJP was initially elected on an *anti-corruption* mandate, replacing the longstanding Congress party
 
 2023-03 Adani Allegations
 * In January 2023, Hindenburg Research published the findings of a two-year investigation alleging that Adani had engaged in market manipulation and accounting malpractices. Link: [Wikipedia: Adani Group](https://en.wikipedia.org/wiki/Adani_Group#Stock_manipulation_and_accounting_fraud_allegations)
