@@ -1,4 +1,5 @@
 # Rolling Roughwork Notes
+### Concerning Stories
 Modi's image is widespread
 * reminiscent of Mao, on train seats, billboards, government brochures
 * More prevelant in northern India such as in Delhi
