@@ -34,7 +34,6 @@ Internal Affairs:
 
 Beyond Europe:
 * [India](https://github.com/eurohat1984/eurohat1984/blob/main/india.md)
-* [Israel](https://github.com/eurohat1984/eurohat1984/blob/main/israel.md)
 
 Other Links:
 * [History](https://github.com/eurohat1984/eurohat1984/blob/main/history.md)
