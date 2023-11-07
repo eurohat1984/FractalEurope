@@ -11,7 +11,7 @@
     * Gather data on net cashflows by member state
 
 ##### Strings Attached
-EU funding generally has strings attached. I find this overly technocratic. In some cases this encourages member states to spend the money well. But overall I think member states should decide for themselves how to spend money. If the EU makes decisions centrally I think it leads to less variation, so less benefits from trial-and-error, and less locally tailored solutions.
+EU funding generally has strings attached. I find this overly technocratic. In some cases this encourages member states to spend the money well. But overall I think member states should decide for themselves how to spend money. If the EU makes decisions centrally I think it leads to less variation, so less benefits from trial-and-error, and less locally tailored solutions. [2023 update: this needs review. I think the EU can be a force for good in politically corrupt countries such as Hungry by encouraging good practices for institutions, procurement etc.]
 
 Pandemic Recovery Fund
 * e.g. Financial Times: [vast disbursements agreed with Brussels](https://www.ft.com/content/9a064a93-a42c-4436-9eda-601ea3d060c6)
