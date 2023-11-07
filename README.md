@@ -5,7 +5,7 @@ Welcome to Eurohat's project about the **European Union**.
 ### Summary
 This repository is a collection of notes about the E.U. and ideas for improving it.
 
-*Instead of being pro or anti-EU we need people who are pro-EU and critical because they want it to be even better.*
+***Instead of being pro or anti-EU we need people who are pro-EU and critical because they want it to be even better.***
 
 Internal Improvements:
 * I think the E.U. needs more local [Democracy](https://github.com/eurohat1984/eurohat1984/blob/main/democracy.md) and less [Bureaucracy](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md).
