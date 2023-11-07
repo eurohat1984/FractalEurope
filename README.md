@@ -2,6 +2,8 @@
 # Eurohat
 Welcome to Eurohat's project about the **European Union**.
 
+I have also branched out with a section on **Indian Politics** ([Link](https://github.com/eurohat1984/eurohat1984/blob/main/india.md)).
+
 ### Summary
 This repository is a collection of notes about the E.U. and ideas for improving it.
 
@@ -32,8 +34,8 @@ Internal Affairs:
 * [**Bureaucracy**](https://github.com/eurohat1984/eurohat1984/blob/main/bureaucracy.md)
     * [Finances](https://github.com/eurohat1984/eurohat1984/blob/main/money.md)
 
-Beyond Europe:
-* [India](https://github.com/eurohat1984/eurohat1984/blob/main/india.md)
+**Beyond Europe**:
+* [**Indian Politics**](https://github.com/eurohat1984/eurohat1984/blob/main/india.md)
 
 Other Links:
 * [History](https://github.com/eurohat1984/eurohat1984/blob/main/history.md)
