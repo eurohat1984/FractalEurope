@@ -47,8 +47,8 @@ These murders, attempted murders and legal cases show an uncanny resemblance wit
 
 ##### Suspicious Deaths
 Deaths Detailed in the BBC Documentary [see below](#bbc-documentary)
-* Former BJP State Minister [Haren Pandya](https://en.wikipedia.org/wiki/Haren_Pandya)
-* Former Member of Parliament [Ehsan Jafri](https://en.wikipedia.org/wiki/Ehsan_Jafri)
+* Former BJP State Minister: [Haren Pandya](https://en.wikipedia.org/wiki/Haren_Pandya)
+* Former Member of Parliament: [Ehsan Jafri](https://en.wikipedia.org/wiki/Ehsan_Jafri)
 
 ##### Suspicious Legal Cases
 * Disqualification of Opposition Leader from Parliament (see [Political Suppression](#political-suppression) section below)
