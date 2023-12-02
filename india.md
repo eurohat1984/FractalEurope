@@ -33,12 +33,12 @@ Roughwork Notes
 ## Successes
 Successes of Modi and the BJP government:
 * Initially elected on an *anti-corruption* mandate, voting out the longstanding Congress party
-* Presided over successes in technology
+* **Presided over successes in technology**
     * Government payment systems such as [UPI Pay](https://en.wikipedia.org/wiki/Unified_Payments_Interface), which cuts out the middle man in bank transactions
     * Private technology such as tech giants and start ups
-* Confidence on the world stage**
+* Confidence on the world stage
     * Modi has a greater an air of confidence on the world stage than predecessors
-    * He offers a coherent and uplifting vision of *India*, much like how the national Cricket team does.
+    * For many he offers an uplifting vision of *India*, much like how the national Cricket team does.
 
 *\*\* I caveat this with the concern that it is a Hindu centric, uniformist vision. It is also a *confidence* reminiscent of Putin's Russia in earlier days. See [Putin's Big Praise For 'Mighty Indian Nation' Under PM Modi](https://www.youtube.com/watch?v=6Ai_lAtDQrw) (October 2023)*
 
