@@ -18,8 +18,8 @@ Roughwork Notes
 ### Sub-Sections:
 * [Successes](#successes)
 * Alledged Crimes
-    * Suspicious Deaths
-    * Suspicious Legal Cases
+    * [Suspicious Deaths](#suspicious-deaths)
+    * [Suspicious Legal Cases](#suspicious-legal-cases)
     * [International Assasinations](#international-assasinations)
 * Criticism
     * [**Suppression of Journalists**](#suppression-of-journalists)
