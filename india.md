@@ -1,7 +1,8 @@
 # Indian Politics
 Sections:
-* [Narendra Modi and the BJP Party](#narendra-modi-and-the-bjp-party)
-* [Recommendations](#Recommendations): *What India needs **now***
+1) [Narendra Modi and the BJP Party](#narendra-modi-and-the-bjp-party)
+2) [Recommendations](#Recommendations): *What India needs **now***
+3) [External Links](#external-links): Including the **BBC Documentary on Modi**
 
 Other Political Parties:
 * Congress Party
@@ -14,14 +15,17 @@ Roughwork Notes
 * See [`india_roughwork.md`](./india_roughwork.md)
 
 # Narendra Modi and the BJP Party
-Sub-Sections:
+### Sub-Sections:
 * [Successes](#successes)
+* Alledged Crimes
+    * Suspicious Deaths
+    * Suspicious Legal Cases
+    * [International Assasinations](#international-assasinations)
 * Criticism
     * [**Suppression of Journalists**](#suppression-of-journalists)
     * [**Political Suppression**](#political-suppression)
     * [Regional Suppression](#regional-suppression)
     * [Internet Blackouts](#internet-blackouts)
-    * [International Bullying](#international-bullying)
     * [Corruption](#corruption)
     * [Silence on Atrocities](#silence-on-atrocities)
 * [Deflection Tactics](#deflection-tactics)
@@ -37,6 +41,26 @@ Successes of Modi and the BJP government:
     * He offers a coherent and uplifting vision of *India*, much like how the national Cricket team does.
 
 *\*\* I caveat this with the concern that it is a Hindu centric, uniformist vision. It is also a *confidence* reminiscent of Putin's Russia in earlier days. See [Putin's Big Praise For 'Mighty Indian Nation' Under PM Modi](https://www.youtube.com/watch?v=6Ai_lAtDQrw) (October 2023)*
+
+## Alledged Crimes
+These murders, attempted murders and legal cases show an uncanny resemblance with Putin's Russia (Think poisonings in the UK, Kangaroo Courts).
+
+##### Suspicious Deaths
+Deaths Detailed in the BBC Documentary ([see above](#bbc-documentary)
+* Former BJP State Minister [Haren Pandya](https://en.wikipedia.org/wiki/Haren_Pandya)
+* Former Member of Parliament [Ehsan Jafri](https://en.wikipedia.org/wiki/Ehsan_Jafri)
+
+##### Suspicious Legal Cases
+* Disqualification of Opposition Leader from Parliament (see [Political Suppression](#political-suppression) section below)
+* Conviction of Gujarati Police critics. See [BBC Documentary](#bbc-documentary) section above. 
+
+##### [International Assasinations](#international-assasinations)
+2023 US thwarted plot to kill Sikh separatist in America
+* [FT.com](https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d)
+* [Reuters](https://www.reuters.com/world/us/us-thwarts-plot-kill-sikh-separatist-issues-warning-india-ft-2023-11-22/)
+
+2023 Sikh Activist Murder in Canada
+* [Reuters: India rejects Canada's suspicions on role in Sikh leader's murder](https://www.reuters.com/world/india/india-dismisses-absurd-canadas-accusation-sikh-leaders-murder-2023-09-19/)
 
 ## Criticism
 ### Suppression of Journalists
@@ -159,3 +183,9 @@ Other
 
 3. **Term Limits**
    * Same as point 1) but this can be hardcoded in the rules
+
+# External Links
+### BBC Documentary
+I highly recommend the **BBC Documentary** [*India: The Modi Question*](https://en.wikipedia.org/wiki/India:_The_Modi_Question)
+* Explores Modi's past and connection to riots in Gujarat (2002)
+* The **Modi Government has banned the documentary** from being screened, describing it as "hostile propaganda and anti-India garbage"
