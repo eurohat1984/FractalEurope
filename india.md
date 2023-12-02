@@ -56,7 +56,7 @@ Deaths Detailed in the BBC Documentary [see below](#bbc-documentary)
 * Tax raid on BBC India Offices after Modi Documentary release [see below](#bbc-documentary)
 
 ##### International Assasinations
-2023 US thwarted **plot in America to kill** Sikh separatist
+2023 Sikh separatist **murder attempt in USA** by authorities 
 * [FT.com](https://www.ft.com/content/56f7d6d6-6a93-4172-a49e-d8a91991e29d)
 * [Reuters](https://www.reuters.com/world/us/us-thwarts-plot-kill-sikh-separatist-issues-warning-india-ft-2023-11-22/)
 
