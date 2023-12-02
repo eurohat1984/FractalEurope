@@ -53,7 +53,7 @@ Deaths Detailed in the BBC Documentary [see below](#bbc-documentary)
 ##### Suspicious Legal Cases
 * Disqualification of Opposition Leader from Parliament (see [Political Suppression](#political-suppression) section below)
 * Conviction of Gujarati Police critics. See [BBC Documentary](#bbc-documentary) section above.
-* Tax Raid on BBC India Offices after Modi Documentary release [see below](#bbc-documentary)
+* Tax raid on BBC India Offices after Modi Documentary release [see below](#bbc-documentary)
 
 ##### [International Assasinations](#international-assasinations)
 2023 US thwarted plot to kill Sikh separatist in America
@@ -190,4 +190,4 @@ Other
 I highly recommend the **BBC Documentary** [*India: The Modi Question*](https://en.wikipedia.org/wiki/India:_The_Modi_Question)
 * Explores Modi's past and connection to riots in Gujarat (2002)
 * The **Modi Government has banned the documentary** from being screened, describing it as "hostile propaganda and anti-India garbage"
-* Tax officials raided BBC India Offices after Modi Documentary release. See [Suppression of Journalists](#suppression-of-ournalists) section above.
+* Tax officials raided BBC India Offices after Modi Documentary release. See [Suppression of Journalists](#suppression-of-journalists) section above.
